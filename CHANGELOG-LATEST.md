@@ -3,17 +3,15 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable no-emphasis-as-heading -->
 
-**1.2.0**
+**1.2.1**
 
 **Adicionado**
 
-- [Jade Addons (Neo/Forge)](https://modrinth.com/project/xuDOzCLy)
-- [Jade Sable Compat](https://modrinth.com/project/jCrJ4iGH)
-- [Jade 🔍](https://modrinth.com/project/nvQzSEkH)
-- [Sable: Destructive](https://modrinth.com/project/s8kSCCgD)
-- [Sable Touys](https://modrinth.com/project/HHlTF7u0)
+- [Better Days](https://modrinth.com/project/tPLE214j)
+- [Ok Zoomer - It's Zoom!](https://modrinth.com/project/aXf2OSFU)
+- [Your Options Shall Be Neoforged (YOSBR)](https://modrinth.com/project/1Q1Lbl0G)
 
 **Removido**
 
-- [Gaia](https://modrinth.com/project/cbNKlKAw)
-- [Sable: Collision damage (Create Aeronautics)](https://modrinth.com/project/Jm4nvDTr)
+- [Default Options](https://modrinth.com/project/WEg59z5b)
+- [WI Zoom](https://modrinth.com/project/o7DitHWP)

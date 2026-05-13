@@ -4,6 +4,19 @@
 
 # May The Odds Changelog
 
+**1.2.1**
+
+**Adicionado**
+
+- [Better Days](https://modrinth.com/project/tPLE214j)
+- [Ok Zoomer - It's Zoom!](https://modrinth.com/project/aXf2OSFU)
+- [Your Options Shall Be Neoforged (YOSBR)](https://modrinth.com/project/1Q1Lbl0G)
+
+**Removido**
+
+- [Default Options](https://modrinth.com/project/WEg59z5b)
+- [WI Zoom](https://modrinth.com/project/o7DitHWP)
+
 **1.2.0**
 
 **Adicionado**

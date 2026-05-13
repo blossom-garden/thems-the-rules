@@ -1,48 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/extra/sodium-extra-options.json"
+file = "config/yosbr/config/sodium-extra-options.json"
 hash = "d16bf7fe0c208b6858d0a8608ac5abebdf788eed13720be81f0784c948fcc0bd"
 
 [[files]]
-file = "config/defaultoptions/extra/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
-file = "config/defaultoptions/extra/voicechat/voicechat-client.properties"
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "842ec3a767be587889c6bdee96a1ca97420ea8d9f4250240067414f78c566c5c"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
+file = "config/yosbr/keybindings.txt"
 hash = "c64716dab60bae0549afdc30b24f0b88d83434194ea4c902f8071f1eec671040"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "de5b7cedc0b1df53d1aebd4355ece7ff895ff11a5d1092d2afbb5c910029470e"
+file = "config/yosbr/options.txt"
+hash = "c3858ae05844f56156b04d3e388df161e1d961b198c49dd7001e397440cee3c3"
 
 [[files]]
 file = "datapacks/fix-gliders-slots.zip"
 hash = "c76ec36dbd19c7b42d7d789361fc08cd77dbf8e0e3adf578074bbbd22781d29c"
-
-[[files]]
-file = "defaultoptions/extra/sodium-extra-options.json"
-hash = "d16bf7fe0c208b6858d0a8608ac5abebdf788eed13720be81f0784c948fcc0bd"
-
-[[files]]
-file = "defaultoptions/extra/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
-
-[[files]]
-file = "defaultoptions/extra/voicechat/voicechat-client.properties"
-hash = "842ec3a767be587889c6bdee96a1ca97420ea8d9f4250240067414f78c566c5c"
-
-[[files]]
-file = "defaultoptions/keybindings.txt"
-hash = "c64716dab60bae0549afdc30b24f0b88d83434194ea4c902f8071f1eec671040"
-
-[[files]]
-file = "defaultoptions/options.txt"
-hash = "de5b7cedc0b1df53d1aebd4355ece7ff895ff11a5d1092d2afbb5c910029470e"
 
 [[files]]
 file = "icon.png"
@@ -129,6 +109,11 @@ hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -196,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "cfa46558d85f2e185026317bfba12f11674202c05e91a79c44cc1106a3503695"
 metafile = true
 
 [[files]]
@@ -361,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
 
 [[files]]
@@ -564,11 +549,6 @@ hash = "2fd991d66291d7f368465e8413382e080594bdd820c081c43f11b8237fdd1820"
 metafile = true
 
 [[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "9ec08d474d8c886bc0719b2d27d9b5f1893bc8d4baceb0b78824e4a231e7968b"
-metafile = true
-
-[[files]]
 file = "mods/wizards.pw.toml"
 hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
 metafile = true
@@ -581,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "f093cf9ea51450d9e691d1826517179c014fe94b216a519a9c36c1984859afdc"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "May the Odds"
 author = "kodiitulip"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84c072ce5f4fbd61a9ca315abf4a7ac48d914816bffef74c63cde887f31c7cdf"
+hash = "1ee38d3826c44c02932e3a08371fb7a076515df8c84b7633726d0c8cd3c2f874"
 
 [versions]
 minecraft = "1.21.1"

@@ -3,11 +3,11 @@ filename = "musync-neoforge-1.21.1+1.9.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Pdt1iYTy/versions/OMgtDysx/musync-neoforge-1.21.1%2B1.9.4.jar"
+url = "https://cdn.modrinth.com/data/Pdt1iYTy/versions/L0Ngyi5r/musync-neoforge-1.21.1%2B1.9.4.jar"
 hash-format = "sha512"
-hash = "3436892ea796cf943f083007c0451c20738bb6fc5a92ebf98ffe573bdd4b1955830033d6a8e07586f28359c71669048fb3368a2286d1fa6a62698a572bd6efcc"
+hash = "a99283d88347caf3b6b54a62a85c266a22eaa7b453295646ba6f4d031336342a155be01624bb3fb1861da74e6a69990b43e8ee71cd82bbec949015ebcf81cb86"
 
 [update]
 [update.modrinth]
 mod-id = "Pdt1iYTy"
-version = "OMgtDysx"
+version = "L0Ngyi5r"

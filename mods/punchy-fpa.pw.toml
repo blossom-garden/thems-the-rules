@@ -1,13 +1,13 @@
 name = "Punchy!"
-filename = "punchy-2.4.5-neoforge-1.21.1.jar"
+filename = "punchy-2.5.4-neoforge-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8aoMKplv/versions/3TGF4Ugo/punchy-2.4.5-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/ibINAUBS/punchy-2.5.4-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "4327cd83d9695c24834130e2aa6ba5faf448cb41dbb52ac0a1ab615bbfc21fdaec25b8cb31d823061c359ed75d6604b24df76c3d72eba130d7b5ad4cb37b7eef"
+hash = "1cfb725a8897a713baa524a0ee8ecf77df7ac5c9e616f8b529e9cc17c4d703887a872a379d41a5502ecf8c7efbc68b89dd087da86c6afd5f6d41e4d796a01279"
 
 [update]
 [update.modrinth]
 mod-id = "8aoMKplv"
-version = "3TGF4Ugo"
+version = "ibINAUBS"

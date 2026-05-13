@@ -10,6 +10,7 @@
 - [Better Days](https://modrinth.com/project/tPLE214j)
 - [Ok Zoomer - It's Zoom!](https://modrinth.com/project/aXf2OSFU)
 - [Your Options Shall Be Neoforged (YOSBR)](https://modrinth.com/project/1Q1Lbl0G)
+- [Create Aeronautics: Boat Propellers](https://modrinth.com/project/Rzsvsn8U)
 
 **Removido**
 

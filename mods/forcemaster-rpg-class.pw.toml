@@ -1,0 +1,13 @@
+name = "Forcemaster (More RPG Classes)"
+filename = "forcemaster_rpg-neoforge-2.6.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K3yHebFL/versions/cgEFs1KH/forcemaster_rpg-neoforge-2.6.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "19e140423208706c5fd310032258fb8f771910d03a6b7eddedbab455df3c0a077dde8ca4dc75ffae94d3848bb1b7ba2d3640c211e709420245046cc1253d2546"
+
+[update]
+[update.modrinth]
+mod-id = "K3yHebFL"
+version = "cgEFs1KH"

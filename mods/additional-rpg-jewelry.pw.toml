@@ -1,0 +1,13 @@
+name = "Additional Jewelry"
+filename = "additional_rpg_jewelry-neoforge-2.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rULzJh3O/versions/tbF4VzZ5/additional_rpg_jewelry-neoforge-2.2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "fa475923322f93172ae5b7e1c3dc24d1d74afc22fd61aada9ffb23450480e87e29d3cc3263073778de722bf0bcc2c27fcd9888de2c35ea73c04536b5988155f5"
+
+[update]
+[update.modrinth]
+mod-id = "rULzJh3O"
+version = "tbF4VzZ5"

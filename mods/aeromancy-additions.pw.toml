@@ -1,0 +1,13 @@
+name = "SnackPirate's Aeromancy Additions"
+filename = "aero_additions-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/joX0o9VN/versions/f7oOru3s/aero_additions-1.2.7.jar"
+hash-format = "sha512"
+hash = "c7315602345ef05949b3cccb4c93476da0ebba5d268fdf54a3c92fa5261c696f49220d4ecdb52f42707862d9d061bd5ffe38f613321c6046b0dae5d04d234b06"
+
+[update]
+[update.modrinth]
+mod-id = "joX0o9VN"
+version = "f7oOru3s"

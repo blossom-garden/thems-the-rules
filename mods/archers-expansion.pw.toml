@@ -1,0 +1,13 @@
+name = "Archers Expansion (More RPG Classes)"
+filename = "archers_expansion-neoforge-1.5.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1BHIIm4m/versions/k4HKgkwr/archers_expansion-neoforge-1.5.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d0a772536b5f6903b5206492fc84e5f679c4f1247ecc91a637ced812ae891eacc64269a6d2ac6b41469bee1f8b29a3b3ab583bdc39c57045d8232bb8ef6dde31"
+
+[update]
+[update.modrinth]
+mod-id = "1BHIIm4m"
+version = "k4HKgkwr"

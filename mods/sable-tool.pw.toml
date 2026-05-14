@@ -1,0 +1,13 @@
+name = "Sable Tool"
+filename = "sableconvenience-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fv9YS8Rq/versions/4CIQTc9O/sableconvenience-1.1.0.jar"
+hash-format = "sha512"
+hash = "b0c85655d617962360ca0dd91394470f00f4b4e9667590609eab19ec8fe2ce479823ca42b6b4b2343c980b33091f263e2c082d88886ef966873b77f073a3bec5"
+
+[update]
+[update.modrinth]
+mod-id = "fv9YS8Rq"
+version = "4CIQTc9O"

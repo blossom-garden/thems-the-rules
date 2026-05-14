@@ -1,0 +1,13 @@
+name = "More Relics"
+filename = "more_relics-neoforge-1.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZ3b4kEa/versions/VCGBpRuq/more_relics-neoforge-1.2.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d990723d2ea5c0fe0c93d7a3bf58ad9dfccb411f9ea75e67960b1e92962f19e256044c619e60f617370e9f8c6887e84cbe49b0291b7ef55bb6e143afd4c0515b"
+
+[update]
+[update.modrinth]
+mod-id = "IZ3b4kEa"
+version = "VCGBpRuq"

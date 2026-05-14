@@ -1,0 +1,13 @@
+name = "Witcher (More RPG Classes)"
+filename = "witcher-class-mod-neoforge-2.8.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4eW1c7Gj/versions/kNwJCFSQ/witcher-class-mod-neoforge-2.8.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "7258b11b6fe511556087d8a8c9c5dc715ff0d24fc29b2c3796974c652fb3c93e7763460cddac6840f215ea00b4202d5e661674da3d7a88832319c93bbdd8821d"
+
+[update]
+[update.modrinth]
+mod-id = "4eW1c7Gj"
+version = "kNwJCFSQ"

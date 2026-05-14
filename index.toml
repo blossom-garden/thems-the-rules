@@ -39,8 +39,23 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/additional-rpg-jewelry.pw.toml"
+hash = "62d3cf629a5edba7e4bd7d2eeb8b87c2989758e540658cff9fbd2437754d4431"
+metafile = true
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "87a042e342be9cc2c2ce9fa4f728fa0f93fa290c5b078ec620e6e8dcfae68741"
+metafile = true
+
+[[files]]
+file = "mods/aeromancy-additions.pw.toml"
+hash = "dd046d19a50472720fa06222be85b4f462d0a3eb75b3842e17cba4d236842147"
+metafile = true
+
+[[files]]
+file = "mods/alshanexs-familiars.pw.toml"
+hash = "c3bc9b64c23d246a4c0b7a456ced39c8eb2a92e0ebbdaa060c3d82ea6de2fc89"
 metafile = true
 
 [[files]]
@@ -54,8 +69,18 @@ hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
 metafile = true
 
 [[files]]
+file = "mods/antique-transport.pw.toml"
+hash = "363d15f8d703be4cc8214de95f5922b3c0f8817ca5c3c0ac9860afe9a91b6eba"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/archers-expansion.pw.toml"
+hash = "da13585272fb79d71a7d7665066593aba7c8a3ab40e45f0c18ac945bf92e8f1c"
 metafile = true
 
 [[files]]
@@ -79,6 +104,11 @@ hash = "ec014d5f3a17c0daad38840adc7b5de98de7dacdf9826c32c4c5f6389d27e5cb"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "7b8b82bf778a7930edbf2ea63c177f07202c519b6982306eee2fe7c9acbd9dc6"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "810b0c32cbee98797ccc52f2ec79e003ed074671d20aa7c3d84eebd012c40209"
 metafile = true
@@ -86,6 +116,16 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+metafile = true
+
+[[files]]
+file = "mods/bard-more-rpg-classes.pw.toml"
+hash = "95107422e2c44dbe2a9e98087fc3c2d79f1741a5982301f16fb662c1e1fc2ff4"
+metafile = true
+
+[[files]]
+file = "mods/berserker-rpg-class.pw.toml"
+hash = "d29e43039161cac96cee76f0b4bda1f14d93513de0f9a3fd2074e75006e45837"
 metafile = true
 
 [[files]]
@@ -194,8 +234,18 @@ hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
+file = "mods/druids.pw.toml"
+hash = "7c9f353f2fb468c257a37184fc5121c0bf3af3465cd10d0e0d37c34a897a7996"
+metafile = true
+
+[[files]]
 file = "mods/durability-tweaks.pw.toml"
 hash = "912bfad02fb679b5de3fbc77446e8f26abd5e6fb91ddf6928e5923bffa391c13"
+metafile = true
+
+[[files]]
+file = "mods/elemental-wizards-rpg.pw.toml"
+hash = "3340b393119e3a585a26ba4b774a7fff8e61c1759e870583e008ce6a9dafee2f"
 metafile = true
 
 [[files]]
@@ -224,6 +274,11 @@ hash = "2e0f5441336f5c080df145c9dd633196bd42888a32fbfd0163913bac6fd2cb72"
 metafile = true
 
 [[files]]
+file = "mods/fairylights.pw.toml"
+hash = "59483690d942cf3e2c1a9b89e279a9efbf0525ff2d9b5591c4fd41b749830604"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
@@ -236,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/flerovium.pw.toml"
 hash = "ba78231dfcbe61e2df15ff861fad0bc6c6594ba1425280ae0de86a044407d07e"
+metafile = true
+
+[[files]]
+file = "mods/forcemaster-rpg-class.pw.toml"
+hash = "d515d85273888d7a3d8f8a0941781d2546f58067233a69b64a0c73868a6c4229"
 metafile = true
 
 [[files]]
@@ -261,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
+hash = "16d067a8f294335dcf3f4858b7285e90f4da66d081e2cf941106c97a10baef80"
 metafile = true
 
 [[files]]
@@ -326,6 +391,21 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
+metafile = true
+
+[[files]]
+file = "mods/more-relics-rpg.pw.toml"
+hash = "2ad6fec1b63efd53efe52a050beb4a702189ed040ecf6a4014b992236be9bda1"
+metafile = true
+
+[[files]]
+file = "mods/more-rpg-classes-skill-tree.pw.toml"
+hash = "610fccf4cc33e05856bc8829067d1ca00ebcf928c91d78090e7e6c58e79338bc"
+metafile = true
+
+[[files]]
+file = "mods/more-rpg-library.pw.toml"
+hash = "581fba46626771293e5bb82e0384bdaac57e734602956f5c2a25897eb1dab794"
 metafile = true
 
 [[files]]
@@ -399,6 +479,11 @@ hash = "636f08c84e9a1e1793850aa4f2390e5ece8fc25abee1d5d83679f3813e113802"
 metafile = true
 
 [[files]]
+file = "mods/pufferfishs-unofficial-additions.pw.toml"
+hash = "9709dcfcc794b61de4c467b30d68da3caaab27e6022cfb3348b4fcf9b9f4f0e8"
+metafile = true
+
+[[files]]
 file = "mods/punchy-fpa.pw.toml"
 hash = "f74b4a3e1daa07ba04c11a68fecab904b7e1575d45540212aa864ba8ab5c02f0"
 metafile = true
@@ -411,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-treasure-balloons.pw.toml"
+hash = "65b08ef670a2838ca8a97b7acb100de8d2cf21bf8ebdfd14d78b725fd7a6df7e"
 metafile = true
 
 [[files]]
@@ -434,6 +524,11 @@ hash = "e35cf7c4bfef1d4cf8158c4df9134b93bce4f99e00829aa3d48912b7beffc0b7"
 metafile = true
 
 [[files]]
+file = "mods/rpg-backpacks.pw.toml"
+hash = "f18adefc02ff3479b51461a2e6bc6888e6a98c40a827b9dfe128fae0ee91cd78"
+metafile = true
+
+[[files]]
 file = "mods/runes.pw.toml"
 hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
@@ -441,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/sable-destructive.pw.toml"
 hash = "525e6c4f6acbb2e8c2ba924447ab95f3c624eac798f6131c5b9791a99f3624e0"
+metafile = true
+
+[[files]]
+file = "mods/sable-tool.pw.toml"
+hash = "e81b685cd4edbca965c8f8577897f12ad97fadb51c8d044ecb2b61010a537fcb"
 metafile = true
 
 [[files]]
@@ -551,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-global-spectator-chat.pw.toml"
 hash = "2fd991d66291d7f368465e8413382e080594bdd820c081c43f11b8237fdd1820"
+metafile = true
+
+[[files]]
+file = "mods/witcher-rpg-class.pw.toml"
+hash = "55e70c73fb1d63461131a30a1bfae8acff1665f9a4ced8d3655dd0e131e49c4c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Fairy Lights"
+filename = "fairylights-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKhMANDF/versions/YFFyLSPY/fairylights-1.0.1.jar"
+hash-format = "sha512"
+hash = "d80753dc1cc1a0ab0ba412b87a7c698af285ce17bb0866ea159676efe7488ec9b41061bd524a4e5fc03991013ac95ad62ad015141394d75c7eba07c14f86b4a0"
+
+[update]
+[update.modrinth]
+mod-id = "wKhMANDF"
+version = "YFFyLSPY"

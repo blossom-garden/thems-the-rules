@@ -2,11 +2,6 @@ name: Export Modpack
 
 on:
   workflow_dispatch:
-    inputs:
-      modrinth-release:
-        type: boolean
-        default: false
-        description: Publish Modrinth Release
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref || github.run_id }}
@@ -68,15 +63,3 @@ jobs:
           bodyFile: ./CHANGELOG-LATEST.md
           tag: ${{ steps.info.outputs.version }}
           name: ${{ steps.info.outputs.name }}-${{ steps.info.outputs.game-versions }}-${{ steps.info.outputs.version }}
-
-      - if: env.modrinth-project-id != '' && inputs.modrinth-release
-        uses: cloudnode-pro/modrinth-publish@v2
-        with:
-          token: ${{ secrets.MODRINTH_TOKEN }}
-          project: ${{ env.modrinth-project-id }}
-          version: ${{ steps.info.outputs.version }}
-          loaders: ${{ steps.info.outputs.loaders }}
-          game-versions: ${{ steps.info.outputs.game-versions }}
-          files: ${{ steps.info.outputs.outfile }}
-          name: ${{ steps.info.outputs.name }}-${{ steps.info.outputs.game-versions }}-${{ steps.info.outputs.version }}
-          changelog: ${{ steps.info.outputs.changelog }}

@@ -847,11 +847,6 @@ hash = "c48bdef3b9f0eeb831fabcf578b7e0e667212c75e08ee419cd991356de15e132"
 metafile = true
 
 [[files]]
-file = "mods/xaero-map-regions.pw.toml"
-hash = "7cb78f978e42b0107ca38c0801cf98015b546f51a2e2c36f7ac3216e519ef702"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-map-server-utils.pw.toml"
 hash = "75b3010e19f9a02570ef3d9a2c8b013c573631402bb0c03f82856e34edcbaf49"
 metafile = true

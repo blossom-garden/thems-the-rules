@@ -327,6 +327,11 @@ hash = "d5327d0d6c38e643cee1778d5ea49232782ded0ec7f7b3b7e0ab20dec6db2eb7"
 metafile = true
 
 [[files]]
+file = "mods/discordpresence.pw.toml"
+hash = "6b73da18b8ed3fcd76e3a66c4f8d9a1b7be63fbaee2e580445e3f55d91898d0e"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "345f384d5c4faaf1e7d47a0d42817370db6aaed10610fae34f069a0d15fd0066"
 metafile = true
@@ -749,11 +754,6 @@ metafile = true
 [[files]]
 file = "mods/spooky-doors.pw.toml"
 hash = "24c08cd3a5285d0e4876c237f2f1fecadf25efa19bbbc8718dd8e66d27e229a8"
-metafile = true
-
-[[files]]
-file = "mods/srdp.pw.toml"
-hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
 metafile = true
 
 [[files]]

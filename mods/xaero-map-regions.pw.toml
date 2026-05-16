@@ -1,0 +1,13 @@
+name = "Xaero Map Regions"
+filename = "xaeroregions-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d11171bde911cce920467d0e830951f786e6624"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8097101
+project-id = 1544542

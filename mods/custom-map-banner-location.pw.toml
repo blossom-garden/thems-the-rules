@@ -1,0 +1,13 @@
+name = "Custom Map Banner Location"
+filename = "custom_map_location-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fTuv4NYl/versions/3RX1gJGZ/custom_map_location-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "45f78acbe63dd9f7d2cd5f1e352f7805ab5563371d90e705722d91a1013eb9df0680375134b4033f805fc11a160f012ce3450a5cbac1bb0e6e6a0ed45c100820"
+
+[update]
+[update.modrinth]
+mod-id = "fTuv4NYl"
+version = "3RX1gJGZ"

@@ -1,0 +1,13 @@
+name = "Aeronautics:Addition"
+filename = "aero_addition-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCWxfksC/versions/yDMdkMjd/aero_addition-1.0.1.jar"
+hash-format = "sha512"
+hash = "95b130801bebbdf114d8d46ed87927fbaeaa01fa5e8ee8dd015498882de87018805c38f5344e2e16e38c8241f9a809b8df62661efa2fd2fefba60f1ba899676b"
+
+[update]
+[update.modrinth]
+mod-id = "uCWxfksC"
+version = "yDMdkMjd"

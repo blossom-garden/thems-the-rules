@@ -15,37 +15,31 @@ export def "import" [
     exit 1
   }
 
-  let list: table<provider: string, id: string> = "provider,id\n" + (open $modlist
-    | str replace --all --regex 'http(s)?:\/\/(?:www\.)?modrinth.com\/[^/]+\/(?<id>\S+)' 'modrinth,$id'
-    | str replace --all --regex 'http(s)?:\/\/(?:www\.)?curseforge.com\/[^/]+\/(?<id>\S+)' 'curseforge,$id'
-    | str replace --all --regex 'http(s)?:\/\/.*' '')
+  let list: table<provider: string, id: string> = ["provider,id,version" (open $modlist
+    | str replace -arm '^#.*' ''
+    | str replace -ar 'http(?:s)?:\/\/(?:www\.)?modrinth.com\/[^/]+\/(?<id>[^/\s]+)(?:\/version\/(?<version>[^/\s]+))?' 'modrinth,$id,$version'
+    | str replace -ar 'http(?:s)?:\/\/(?:www\.)?curseforge.com\/[^/]+\/(?<id>\S+)' 'curseforge,$id'
+    | str replace -ar 'http(?:s)?:\/\/\S*' '')] | str join "\n"
     | from csv
 
   for record in $list {
-    print $record
-    match $record.provider {
-      "modrinth" => (add mr $record.id $dry_run)
-      "curseforge" => (add cf $record.id $dry_run)
+    let output = match $record.provider {
+      "modrinth" => (add mr $record.id $record.version --dry=$dry_run)
+      "curseforge" => (add cf $record.id --dry=$dry_run)
       _ => (null)
     }
+    print ($record | insert output $output)
   }
 
-  print $"\n(ansi '#26233a')(ansi {fg: '#c4a7e7', bg: '#26233a'}) Modlist ($modlist) imported! (ansi rst)(ansi '#26233a')(ansi rst)\n"
+  print $"\n(ansi '#26233a')(ansi {fg: '#c4a7e7', bg: '#26233a'}) ($modlist) imported! (ansi rst)(ansi '#26233a')(ansi rst)"
 }
 
-def "add mr" [id: string, dry: bool = false]: nothing -> nothing {
-  if $dry {
-    print $"add modrinth project ($id)"
-  } else {
-    do -i { ^packwiz mr add -y --project-id $id }
-  }
+export def "add mr" [id: string, version?: string, --dry]: nothing -> string {
+  if $dry { $"add modrinth project ($id)" } else { ^packwiz mr add -y --project-id=($id) --version-id=($version) }
 }
-def "add cf" [id: int, dry: bool = false]: nothing -> nothing {
-  if $dry {
-    print $"add curseforge project ($id)"
-  } else {
-    do -i { ^packwiz cf add -y --addon-id $id }
-  }
+
+export def "add cf" [id: int, --dry]: nothing -> string {
+  if $dry { $"add curseforge project ($id)" } else { ^packwiz cf add -y --addon-id $id }
 }
 
 # Export all the mods into a modlist in markdown format
@@ -106,7 +100,7 @@ def "get removed" [diff: table<status: string, file: string>]: nothing -> table<
 
 # Returns the most recently added files
 export def "changelog" []: nothing -> string {
-  let diff: table<status: string, file: string> = git diff --name-status HEAD~2...
+  let diff: table<status: string, file: string> = git diff --name-status HEAD~1...
   | str replace -r -a "\t" "»¦«"
   | lines | where $it =~ ".pw.toml"
   | split column "»¦«" status file

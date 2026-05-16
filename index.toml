@@ -18,11 +18,35 @@ hash = "c64716dab60bae0549afdc30b24f0b88d83434194ea4c902f8071f1eec671040"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c3858ae05844f56156b04d3e388df161e1d961b198c49dd7001e397440cee3c3"
+hash = "4a5718c10201971150b628182a4102016d2f5f9eb52b953ea5df467a908721d9"
+
+[[files]]
+file = "datapacks/cliffs-and-coves.pw.toml"
+hash = "4c51a575c544d78ac5f279bbca7f09a91c3606feed5be071d1e792706f256f98"
+metafile = true
 
 [[files]]
 file = "datapacks/fix-gliders-slots.zip"
 hash = "c76ec36dbd19c7b42d7d789361fc08cd77dbf8e0e3adf578074bbbd22781d29c"
+
+[[files]]
+file = "datapacks/navigable-rivers.pw.toml"
+hash = "e34454e49aae296c075f67a1eb10fa733e7ca088e77d0007288146d78d21755f"
+metafile = true
+
+[[files]]
+file = "datapacks/towering-tepuis.pw.toml"
+hash = "a0608ed743dd46013389c87443e3ccb65af01671c45c182acc1d4fb0883eb3c8"
+metafile = true
+
+[[files]]
+file = "datapacks/unbreakables.zip"
+hash = "6a54e90bc23649f0de12f236ff9790eec3195ca447c5d613ede122500e486192"
+
+[[files]]
+file = "datapacks/william-wythers-overhauled-overworld-(datapack).pw.toml"
+hash = "bd03fa430bb8b864e5d39a254f8c3d5dc0d64f65c4a1d90e49316c42edb853b9"
+metafile = true
 
 [[files]]
 file = "icon.png"
@@ -51,16 +75,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
-metafile = true
-
-[[files]]
-file = "mods/antique-transport.pw.toml"
-hash = "363d15f8d703be4cc8214de95f5922b3c0f8817ca5c3c0ac9860afe9a91b6eba"
 metafile = true
 
 [[files]]
@@ -219,6 +233,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "345f384d5c4faaf1e7d47a0d42817370db6aaed10610fae34f069a0d15fd0066"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
@@ -354,6 +373,11 @@ hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
+file = "mods/larion-worldgen.pw.toml"
+hash = "cfd9584cd85b80ce1bc993112f337200ea603149edb6bb47af5f5c915529adf4"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "b00d95521c30ec7a29440ef9c6f32e91300450bf3ad098b2a63ebbe7cb5b43c8"
 metafile = true
@@ -386,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/more-relics-rpg.pw.toml"
 hash = "2ad6fec1b63efd53efe52a050beb4a702189ed040ecf6a4014b992236be9bda1"
-metafile = true
-
-[[files]]
-file = "mods/more-rpg-classes-skill-tree.pw.toml"
-hash = "610fccf4cc33e05856bc8829067d1ca00ebcf928c91d78090e7e6c58e79338bc"
 metafile = true
 
 [[files]]
@@ -604,6 +623,11 @@ hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "ebab0f01bb5f7c474fbb56f67c1a5adfe66b5d27ca2c1ab30f09c629f8b6baf1"
+metafile = true
+
+[[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "b43fd8343ee66b129ea22bcd7ba47ad392e7edc33cb24be0ed604b2225ed0229"
 metafile = true
@@ -644,6 +668,11 @@ hash = "2fd991d66291d7f368465e8413382e080594bdd820c081c43f11b8237fdd1820"
 metafile = true
 
 [[files]]
+file = "mods/waterworks-sable.pw.toml"
+hash = "bd331f0e8cf73586f94b2b04fb9b650e46a010f2c75f47657831fbb55de7747c"
+metafile = true
+
+[[files]]
 file = "mods/witcher-rpg-class.pw.toml"
 hash = "55e70c73fb1d63461131a30a1bfae8acff1665f9a4ced8d3655dd0e131e49c4c"
 metafile = true
@@ -656,6 +685,21 @@ metafile = true
 [[files]]
 file = "mods/world-border-evolved.pw.toml"
 hash = "c48bdef3b9f0eeb831fabcf578b7e0e667212c75e08ee419cd991356de15e132"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-map-server-utils.pw.toml"
+hash = "75b3010e19f9a02570ef3d9a2c8b013c573631402bb0c03f82856e34edcbaf49"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
 metafile = true
 
 [[files]]
@@ -736,11 +780,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mushrooms-plus.pw.toml"
 hash = "0db4f35da5de891768a3bb230f28d1e11bf5cee1cc799485e2888ae3a1cac1ac"
-metafile = true
-
-[[files]]
-file = "resourcepacks/p1kls-3d-items.pw.toml"
-hash = "98e83d513daa8bbe8d5337562337088932b6d7b5a3b3c3fab1cb478bd6960c6e"
 metafile = true
 
 [[files]]

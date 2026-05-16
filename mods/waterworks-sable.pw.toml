@@ -1,0 +1,13 @@
+name = "Waterworks - Sable"
+filename = "waterworks-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fae1569cdb703154141f4663ec9f985429b1e64b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8045776
+project-id = 1519541

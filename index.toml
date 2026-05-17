@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "660bd24d53a231aeadfd1265b52f2714f553457bed7006a274061c32090a5c74"
+hash = "0d3c0f31ecf48a8cd315a1abb9354177f274c90b27933a3e27608a45f53a27a7"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "ced0dbcd3a25b22f7215301a9de10718d61e8deee4d9377a673e4b3cdca727d6"
+hash = "2b198f4a6f290afd8064cd6fc4c8207b40229e5688776304ea64a2ec001a8b93"
 
 [[files]]
 file = "config/fancymenu/assets/early_background.png"
@@ -38,7 +38,7 @@ hash = "217b8fc181349087c486bcd54ae5cfbcde8b60b2ad9dbef8583017f6fd912a8b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "b6b95bc86c3ffef9f8e3bb25b56c7bbc7d27abdbfa3fa1178a759b21886ef044"
+hash = "f597bad01bd70e1a8db69d032e8e6b9ad01fc558658361f3ddb7d08ff092eebd"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"

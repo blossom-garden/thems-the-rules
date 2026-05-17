@@ -332,6 +332,11 @@ hash = "d5327d0d6c38e643cee1778d5ea49232782ded0ec7f7b3b7e0ab20dec6db2eb7"
 metafile = true
 
 [[files]]
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
+
+[[files]]
 file = "mods/discordpresence.pw.toml"
 hash = "6b73da18b8ed3fcd76e3a66c4f8d9a1b7be63fbaee2e580445e3f55d91898d0e"
 metafile = true
@@ -714,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/simulated-copycats.pw.toml"
 hash = "dd81d72371f40a73af5159eb7104c1efe2fd1c619270e977357bc3338bfad55d"
+metafile = true
+
+[[files]]
+file = "mods/simulated-gauges.pw.toml"
+hash = "b131faa1c8ca8217f5d52612d4b41f8f8f019488f6b1e3bfee065ca82c21bdfb"
 metafile = true
 
 [[files]]

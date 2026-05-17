@@ -26,10 +26,10 @@ S:custom_game_intro_skip_text = '';
 ##[window]
 
 B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '/config/fancymenu/assets/icon-x32a.png';
+S:custom_window_icon_macos = '/config/fancymenu/assets/mac_window_icon_x32.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/window_icon_x32.png';
 S:custom_window_title = 'Minecraft - Thems The Rules';
-S:custom_window_icon_16 = '/config/fancymenu/assets/icon-x16.png';
+S:custom_window_icon_16 = '/config/fancymenu/assets/window_icon_x16.png';
 
 
 ##[global_customizations]

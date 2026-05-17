@@ -13,16 +13,20 @@ file = "config/fancymenu/assets/early_background.png"
 hash = "2d6f4a855473e1143f69295f20a232bf28de02ab129d761c2aa4506051e9880a"
 
 [[files]]
-file = "config/fancymenu/assets/icon_x16.png"
-hash = "0bc638e552ce4c5a9949719a90fa9fd5b68553e5088e6377497a3c533ed6d0c0"
+file = "config/fancymenu/assets/mac_window_icon_x32.icns"
+hash = "2a695dad4b27f4befe84d1509c2e5790edcc09547000ae16be2547779310a421"
 
 [[files]]
-file = "config/fancymenu/assets/icon_x32.png"
-hash = "dd4b632c39f141bd206d84794ae83af347aded082e4f146970767a1f59fd84be"
+file = "config/fancymenu/assets/title.png"
+hash = "9fbc4394e0a88e2f9fa83fbe31f426da1381f945163090a2c135fbe5630bcda7"
 
 [[files]]
-file = "config/fancymenu/assets/minecraft_title.png"
-hash = "606adba566c247331cfa58d82b21ee0c5c7145e2e19a28cf7947c0603045865e"
+file = "config/fancymenu/assets/window_icon_x16.png"
+hash = "940ae452665b345f5b92842dc4ffc9872d98d1048feb9572852285de1114a041"
+
+[[files]]
+file = "config/fancymenu/assets/window_icon_x32.png"
+hash = "8593234cca6d5eb301cdeb289283e48b805bc35c8218b155eea555c04236bcff"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -30,11 +34,11 @@ hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "75bd677882cb7941b8f2249e3afc5510e0454464155985cfd4ad683b6789ee80"
+hash = "217b8fc181349087c486bcd54ae5cfbcde8b60b2ad9dbef8583017f6fd912a8b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "932646388f63d66e1bcff70226224a12c42ae56101a184b36e9635ea10218a84"
+hash = "b6b95bc86c3ffef9f8e3bb25b56c7bbc7d27abdbfa3fa1178a759b21886ef044"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -42,11 +46,7 @@ hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8d362cb0684768e37ae905d15d3f8355f39e810d7494f131b15f4f6f0027f5a6"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash = "827df5ef2d1eed0f31923812b4b1acf341be555528c38a434f2fbc575b799fbf"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -1070,5 +1070,6 @@ hash = "051090b5ee11bb3553056e7f74b1eec3a8fc07187e4dc5e3d75ae6baae84d4c2"
 metafile = true
 
 [[files]]
-file = "server-icon.png"
-hash = "7a044decd7e79c1f8c9b449bdf8369da8926bbfd1e503df174e575c347282e6b"
+file = "server-icon-png.pw.toml"
+hash = "47f136851ad2e52174637e25d68d4dfa330847712cecc6726a69db3f8027c49b"
+metafile = true

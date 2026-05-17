@@ -1,0 +1,13 @@
+name = "Create: Strict Links"
+filename = "create_strict_links-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XqoROsGP/versions/AHm5jvla/create_strict_links-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "146d19872046326b38f8c5fc8de2b77f3e4cd5c9726df9180d8ef2bee2f2130faada5b6bca6a4bc14a0d129b8ace428de8922a1951ac39d3fbe245456a250210"
+
+[update]
+[update.modrinth]
+mod-id = "XqoROsGP"
+version = "AHm5jvla"

@@ -345,6 +345,11 @@ hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
 
 [[files]]
+file = "mods/create-strict-links.pw.toml"
+hash = "804e57bfb4af7fd0a0606adb37f7547a4b0d2c4ec864d8b6a70b7f72642f9389"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "7e0ebe1712b52906dd37f9b75d73d5f841d9a8407b0214876881d659172aa772"
 metafile = true
@@ -362,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/critical-strike.pw.toml"
 hash = "8f7ec1d22f09c9a78d88a13763e4e780f6111e45685f8147e7afd6e49aea4a5c"
-metafile = true
-
-[[files]]
-file = "mods/crle.pw.toml"
-hash = "fd8106ffb9f0310c6769644d42fcb647ebde632e9d27d6763824796b2ce80979"
 metafile = true
 
 [[files]]

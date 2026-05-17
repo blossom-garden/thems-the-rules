@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairylights.pw.toml"
-hash = "59483690d942cf3e2c1a9b89e279a9efbf0525ff2d9b5591c4fd41b749830604"
+hash = "64b333f6b335e3c1edd5fac97a88ac7ae56c4f7ccbafb652fa887dfe4a54a4fd"
 metafile = true
 
 [[files]]
@@ -824,6 +824,16 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ef870d22b5ee7e2718a1d849680d25103aae0f5a0b7c569b99032803ea772e68"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "05fe3823b0d3b91b9ecd6ce95409eb1a959054492f946aed85b2ae8f5a960e35"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]

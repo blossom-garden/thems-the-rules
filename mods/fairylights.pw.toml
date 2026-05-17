@@ -1,13 +1,13 @@
 name = "Fairy Lights"
-filename = "fairylights-1.0.1.jar"
+filename = "fairylights-neoforge-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wKhMANDF/versions/YFFyLSPY/fairylights-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/wKhMANDF/versions/CRqxjcO5/fairylights-neoforge-1.21.1-1.1.2.jar"
 hash-format = "sha512"
-hash = "d80753dc1cc1a0ab0ba412b87a7c698af285ce17bb0866ea159676efe7488ec9b41061bd524a4e5fc03991013ac95ad62ad015141394d75c7eba07c14f86b4a0"
+hash = "fa331d5c3597f6d9577f47f3b8193d1061a626cdca6437827bdec74ab55dc93763747d84180d55b50abbc4a43eadc7c1934a040d61cb680b40bd2cf8857d1139"
 
 [update]
 [update.modrinth]
 mod-id = "wKhMANDF"
-version = "YFFyLSPY"
+version = "CRqxjcO5"

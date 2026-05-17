@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/drippyloadingscreen/early_window_reference.properties"
+hash = "660bd24d53a231aeadfd1265b52f2714f553457bed7006a274061c32090a5c74"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "ced0dbcd3a25b22f7215301a9de10718d61e8deee4d9377a673e4b3cdca727d6"
+
+[[files]]
+file = "config/fancymenu/assets/early_background.png"
+hash = "2d6f4a855473e1143f69295f20a232bf28de02ab129d761c2aa4506051e9880a"
+
+[[files]]
+file = "config/fancymenu/assets/icon_x16.png"
+hash = "0bc638e552ce4c5a9949719a90fa9fd5b68553e5088e6377497a3c533ed6d0c0"
+
+[[files]]
+file = "config/fancymenu/assets/icon_x32.png"
+hash = "dd4b632c39f141bd206d84794ae83af347aded082e4f146970767a1f59fd84be"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "606adba566c247331cfa58d82b21ee0c5c7145e2e19a28cf7947c0603045865e"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "75bd677882cb7941b8f2249e3afc5510e0454464155985cfd4ad683b6789ee80"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "932646388f63d66e1bcff70226224a12c42ae56101a184b36e9635ea10218a84"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8d362cb0684768e37ae905d15d3f8355f39e810d7494f131b15f4f6f0027f5a6"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "d16bf7fe0c208b6858d0a8608ac5abebdf788eed13720be81f0784c948fcc0bd"
 
@@ -54,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "icon.png"
-hash = "4e1b3ec3b370b41054067a4639a9199927a71e2201fb1a9e54ed628fed3813ca"
+hash = "50381110f557bc55e66c33b91ed58ba1b741baff0be47a419c035908193e804e"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -352,6 +400,16 @@ hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
+file = "mods/drippy-early-loading-module.pw.toml"
+hash = "21f66e4e9771f9234c024bf5bcbd011f86c00cb78f36425a7218a0aec2049edd"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "eea753771cfbd43beb266fefdb1953f718f6aee6c78f10384c8db7150bb37d84"
+metafile = true
+
+[[files]]
 file = "mods/druids.pw.toml"
 hash = "7c9f353f2fb468c257a37184fc5121c0bf3af3465cd10d0e0d37c34a897a7996"
 metafile = true
@@ -404,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f9398de9ed43f360533cd4a58763a48ccc0674ab7943401e297d1f4a58e775e7"
 metafile = true
 
 [[files]]
@@ -487,6 +550,11 @@ hash = "6138ad725b71ed421496fb95fb72b6850a289f01f399cae639838649526c5ea9"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -522,8 +590,18 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/loading-invincibility.pw.toml"
+hash = "117af7f7407e572a222fa1ee017d21c4da9bb7a9465ce12975ccc54ccd031006"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
@@ -993,4 +1071,4 @@ metafile = true
 
 [[files]]
 file = "server-icon.png"
-hash = "51b41ad989973ee796cfbd59b764e7d059ec6ce9ad86e68bf25f3105932cb268"
+hash = "7a044decd7e79c1f8c9b449bdf8369da8926bbfd1e503df174e575c347282e6b"

@@ -1,0 +1,13 @@
+name = "Entombed"
+filename = "entombed-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b3lWYZUQ/versions/qksLySDN/entombed-1.0.1.jar"
+hash-format = "sha512"
+hash = "887b62fc103723961a09eeb596842956d5f15688c6e0942ff5c78197bc5e338f7a9c1522de470f36a6b0fef155e03a7d00cdaa9bcc26d4684848aa224c580892"
+
+[update]
+[update.modrinth]
+mod-id = "b3lWYZUQ"
+version = "qksLySDN"

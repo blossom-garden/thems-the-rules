@@ -1,6 +1,6 @@
 name = "Sable: Collision damage  (Create Aeronautics)"
 filename = "sablecollisiondamage-1.0.7.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jm4nvDTr/versions/d5Pq98gY/sablecollisiondamage-1.0.7.jar"

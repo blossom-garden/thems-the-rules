@@ -1,7 +1,7 @@
 #!/usr/bin/env nu
 
 # Import modrinth and curseforge mods from a list of project urls
-export def "import" [
+export def import [
   modlist: path, # The modlist file to read
   --dry-run(-d)  # Do a dry run where packwiz cli wont actually be called (useful for debuging)
 ]: nothing -> nothing {
@@ -43,25 +43,53 @@ export def "add cf" [id: int, --dry]: nothing -> string {
 }
 
 # Export all the mods into a modlist in markdown format
-export def "export" []: nothing -> string {
+export def all []: nothing -> string {
   let list: table<name: string, id: any, provider: string> = ls **/*.pw.toml
   | each {|it| open $it.name}
   | where update? != null
-  | each {|it| $it | get-metadata}
+  | each {|it| $it | get metadata}
 
-  let markdown: string = [$"\n**((open pack.toml).version)**" ($list | each {|it|
-    let url: string = match $it.provider {
-      "modrinth" => $"https://modrinth.com/project/($it.id)",
-      "curseforge" => $"https://curseforge.com/projects/($it.id)",
-      _ => "#nope",
+  [
+    $"\n**((open pack.toml).version)**"
+    ($list | each {|it| $it | get link } | str join "\n")
+  ] | str join "\n\n"
+}
+
+export def details []: nothing -> string {
+  let ep = all | str trim
+  ["<details>\n<summary>Modlist</summary>" $ep "</details>"] | str join "\n\n"
+}
+
+# Returns the most recently added files
+export def changelog []: nothing -> string {
+  if not ("./pack.toml" | path exists) {
+    print "No pack.toml found"
+    exit 1
+  }
+
+  let diff: table<status: string, file: string, hash: string> = git log -5 --name-status --pretty=format:"%H" --diff-filter=AD
+  | lines
+  | chunk-by {|it| $it | is-not-empty}
+  | where ($it.0 | is-not-empty)
+  | each {|chunk|
+    let hash = $chunk.0
+    $chunk | skip 1 | each {|file|
+      let parsed = ($file | parse -r '^(\S+)\s+(.+)$')
+      {status: $parsed.0.capture0, file: $parsed.0.capture1, hash: $hash}
     }
-    $"- [($it.name)]\(($url)\)"
-  } | str join "\n")] | str join "\n\n"
+  }
+  | flatten | where $it.file =~ '.pw.toml'
 
+  let added = $diff | where status == 'A' | get file | each {|i| $i | get link } | str join "\n"
+  let removed = $diff | where status == 'D' | get file -r | each {|i| $i | get link } | str join "\n"
+
+  mut markdown = $"\n**((open pack.toml).version)**"
+  if ($added | is-not-empty) { $markdown = ([$markdown $"**Adicionado**\n\n($added)"] | str join "\n\n") }
+  if ($removed | is-not-empty) { $markdown = ([$markdown $"**Removido**\n\n($removed)"] | str join "\n\n") }
   $markdown
 }
 
-def get-metadata []: [
+def "get metadata" []: [
   record -> record<name: string, provider: string, id: string>
   record -> record<name: string, provider: string, id: int>
 ] {
@@ -74,58 +102,20 @@ def get-metadata []: [
     { name: $in.name, provider: $provider, id: $id }
 }
 
-def generate-link []: record<name: string, id: any, provider: string> -> string {
+def "get link" []: record<name: string, id: any, provider: string> -> string {
     let url: string = match $in.provider {
       "modrinth" => $"https://modrinth.com/project/($in.id)",
       "curseforge" => $"https://curseforge.com/projects/($in.id)",
       _ => ""
     }
-    let name: string = ($in.name | str trim | str replace -ra '(?<bracket>[\[\]])' '\$bracket')
+    let name: string = $in.name | str trim | str escape-regex
     $"- [($name)]\(($url)\)"
 }
 
-def "get added" [diff: table<status: string, file: string>]: nothing -> table<name: string, id: any, provider: string> {
-  $diff
-  | where status == "A" | get file | each {|it| open $it}
+def "get file" [--removed(-r)]: table<status: string, file: string, hash: string> -> table<name: string, id: any, provider: string> {
+  $in
+  | each {|it| (git show (if $removed {$"($it.hash)~1"} else {$it.hash}):($it.file) | from toml)}
   | where update? != null
-  | each {|it| $it | get-metadata }
+  | each {|it| $it | get metadata}
 }
 
-def "get removed" [diff: table<status: string, file: string>]: nothing -> table<name: string, id: any, provider: string> {
-  $diff
-  | where status == "D" | get file | each {|it| (git show HEAD~1:($it) | from toml) }
-  | where update? != null
-  | each {|it| $it | get-metadata }
-}
-
-# Returns the most recently added files
-export def "changelog" []: nothing -> string {
-  let diff: table<status: string, file: string> = git diff --name-status HEAD~1...
-  | str replace -r -a "\t" "»¦«"
-  | lines | where $it =~ ".pw.toml"
-  | split column "»¦«" status file
-  | append (git diff --name-status --cached
-    | str replace -r -a "\t" "»¦«"
-    | lines | where $it =~ ".pw.toml"
-    | split column "»¦«" status file)
-
-  let added = get added $diff
-  let removed = get removed $diff
-
-  let added_links = $added | each {|i| $i | generate-link } | str join "\n"
-  let removed_links = $removed | each {|i| $i | generate-link } | str join "\n"
-
-  mut markdown = $"\n**((open pack.toml).version)**"
-  if ($added_links | is-not-empty) { $markdown = ([$markdown $"**Adicionado**\n\n($added_links)"] | str join "\n\n") }
-  if ($removed_links | is-not-empty) { $markdown = ([$markdown $"**Removido**\n\n($removed_links)"] | str join "\n\n") }
-  $markdown
-}
-
-def semver-level [] {[ "major" "minor" "patch" "alpha" "beta" "rc" "release"]}
-
-# Semver Bump the pack
-export def bump [level: string@semver-level] {
-  mut pack: table = (open pack.toml)
-  $pack.version = $"($pack.version | semver bump patch)"
-  ($pack | save -fp pack.toml)
-}

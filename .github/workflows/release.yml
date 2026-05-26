@@ -2,6 +2,11 @@ name: Export Modpack
 
 on:
   workflow_dispatch:
+    inputs:
+      modrinth-release:
+        type: boolean
+        default: false
+        description: Publish Modrinth Release
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref || github.run_id }}
@@ -12,7 +17,7 @@ defaults:
     shell: nu {0}
 
 env:
-  modrinth-project-id: "NrOJ6Iod"
+  modrinth-project-id: ""
 
 jobs:
   export:
@@ -23,14 +28,18 @@ jobs:
       - uses: actions/checkout@v4
       - uses: hustcer/setup-nu@v3
         with:
-          version: "0.111.0"
+          version: "*"
           enable-plugins: true
 
       - name: Get Info
         id: info
         run: |
+          use modlist.nu
           let pack = (open ./pack.toml)
-          let changelog = (open ./CHANGELOG-LATEST.md | lines | skip 5 | str join "\n")
+          let changelog = modlist changelog | str trim
+          let listofmods = ["\n" (modlist details)] | str join "\n"
+          $changelog | save -f bodyfile.md
+          $listofmods | save -a bodyfile.md
           if (not ("out" | path exists)) { mkdir out }
           $"version=($pack.version)
           loaders=($pack.versions | columns | where ($it != "minecraft") | to json -r)
@@ -60,6 +69,18 @@ jobs:
           artifactErrorsFailBuild: true
           artifacts: ${{ steps.info.outputs.outfile }}
           artifactContentType: zip
-          bodyFile: ./CHANGELOG-LATEST.md
+          bodyFile: ./bodyfile.md
           tag: ${{ steps.info.outputs.version }}
           name: ${{ steps.info.outputs.name }}-${{ steps.info.outputs.game-versions }}-${{ steps.info.outputs.version }}
+
+      - if: env.modrinth-project-id != ''
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: ${{ env.modrinth-project-id }}
+          version: ${{ steps.info.outputs.version }}
+          loaders: ${{ steps.info.outputs.loaders }}
+          game-versions: ${{ steps.info.outputs.game-versions }}
+          files: ${{ steps.info.outputs.outfile }}
+          name: ${{ steps.info.outputs.name }}-${{ steps.info.outputs.game-versions }}-${{ steps.info.outputs.version }}
+          changelog: ${{ steps.info.outputs.changelog }}

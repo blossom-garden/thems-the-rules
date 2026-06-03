@@ -920,11 +920,6 @@ hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
-metafile = true
-
-[[files]]
 file = "mods/tiny-gates.pw.toml"
 hash = "b8a757bce33e01bc9b5c12a6c0f3a2abb28e2f160ae250f1a2ecee9b5729082d"
 metafile = true

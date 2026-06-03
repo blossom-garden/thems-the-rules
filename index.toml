@@ -87,11 +87,6 @@ hash = "e34454e49aae296c075f67a1eb10fa733e7ca088e77d0007288146d78d21755f"
 metafile = true
 
 [[files]]
-file = "datapacks/towering-tepuis.pw.toml"
-hash = "a0608ed743dd46013389c87443e3ccb65af01671c45c182acc1d4fb0883eb3c8"
-metafile = true
-
-[[files]]
 file = "datapacks/unbreakables.zip"
 hash = "6a54e90bc23649f0de12f236ff9790eec3195ca447c5d613ede122500e486192"
 
@@ -605,6 +600,11 @@ hash = "6138ad725b71ed421496fb95fb72b6850a289f01f399cae639838649526c5ea9"
 metafile = true
 
 [[files]]
+file = "mods/keep-some-modded-inventory.pw.toml"
+hash = "1141e6ccb56f06eeab5a3cf8df1afc63a428cfaeb127aed8dff4dcf6c09a0711"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
@@ -715,6 +715,11 @@ hash = "63b368e33b62603516db172ae753dee5e90e5f9f943513ea2cafef53572e87d2"
 metafile = true
 
 [[files]]
+file = "mods/neo-origins.pw.toml"
+hash = "b869caf2f509802ddac80afdd368f77012a47b161be548be8108c4df24843487"
+metafile = true
+
+[[files]]
 file = "mods/neocontinuity.pw.toml"
 hash = "d1d66e8a6f72a031ec1ecc040b065aba512a800484ff5a36c08ae9b97e583ea0"
 metafile = true
@@ -807,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
+metafile = true
+
+[[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "7913508fee049340d77039a85c84851d9079fac630400215fd6e878dbe181fbc"
 metafile = true
 
 [[files]]

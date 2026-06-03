@@ -1,85 +1,85 @@
 name: Export Modpack
 
 on:
-    workflow_dispatch:
-        inputs:
-            modrinth-release:
-                type: boolean
-                default: false
-                description: Publish Modrinth Release
+  workflow_dispatch:
+    inputs:
+      modrinth-release:
+        type: boolean
+        default: false
+        description: Publish Modrinth Release
 
 concurrency:
-    group: ${{ github.workflow }}-${{ github.ref || github.run_id }}
-    cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref || github.run_id }}
+  cancel-in-progress: true
 
 defaults:
-    run:
-        shell: nu {0}
+  run:
+    shell: nu {0}
 
 env:
-    modrinth-project-id: ''
+  modrinth-project-id: ''
 
 jobs:
-    export:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-        steps:
-            - uses: actions/checkout@v4
-            - uses: hustcer/setup-nu@v3
-              with:
-                  version: '0.112.2'
-                  enable-plugins: true
+  export:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hustcer/setup-nu@v3
+        with:
+          version: '0.112.2'
+          enable-plugins: true
 
-            - name: Get Info
-              id: info
-              run: |
-                  use modlist.nu
-                  let pack = (open ./pack.toml)
-                  let changelog = modlist changelog | str trim
-                  let listofmods = ["\n" (modlist details)] | str join "\n"
-                  $changelog | save -f bodyfile.md
-                  $listofmods | save -a bodyfile.md
+      - name: Get Info
+        id: info
+        run: |
+          use modlist.nu
+          let pack = (open ./pack.toml)
+          let changelog = modlist changelog | str trim
+          let listofmods = ["\n" (modlist details)] | str join "\n"
+          $changelog | save -f bodyfile.md
+          $listofmods | save -a bodyfile.md
 
-                  $env.version = $pack.version
-                  $env.loaders = $pack.versions | columns | where $it != "minecraft" | to json -r
-                  $env.game-versions = $pack.versions.minecraft
-                  $env.name = $pack.name
-                  $env.name-kebab = $pack.name | str kebab-case
-                  $env.outfile = $"out/($env.name-kebab).mrpack"
-                  $env.changelog = $changelog
-                  if (not ("out" | path exists)) { mkdir out }
+          $env.version = $pack.version
+          $env.loaders = $pack.versions | columns | where $it != "minecraft" | to json -r
+          $env.game-versions = $pack.versions.minecraft
+          $env.name = $pack.name
+          $env.name-kebab = $pack.name | str kebab-case
+          $env.outfile = $"out/($env.name-kebab).mrpack"
+          $env.changelog = $changelog
+          if (not ("out" | path exists)) { mkdir out }
 
-            - uses: vspr-sh/packwiz-setup-action@master
-            - name: Packwiz export
-              run: ^packwiz modrinth export -o $env.outfile
+      - uses: vspr-sh/packwiz-setup-action@master
+      - name: Packwiz export
+        run: ^packwiz modrinth export -o $env.outfile
 
-            - name: Upload package to workflow artifacts
-              uses: actions/upload-artifact@v6
-              with:
-                  path: ${{ env.outfile }}
-                  name: ${{ env.name-kebab }}.mrpack
-                  retention-days: 1
+      - name: Upload package to workflow artifacts
+        uses: actions/upload-artifact@v6
+        with:
+          path: ${{ env.outfile }}
+          name: ${{ env.name-kebab }}.mrpack
+          retention-days: 1
 
-            - name: Upload package to GitHub release
-              uses: ncipollo/release-action@v1.20.0
-              with:
-                  allowUpdates: true
-                  artifactErrorsFailBuild: true
-                  artifacts: ${{ env.outfile }}
-                  artifactContentType: zip
-                  bodyFile: ./bodyfile.md
-                  tag: ${{ env.version }}
-                  name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
+      - name: Upload package to GitHub release
+        uses: ncipollo/release-action@v1.20.0
+        with:
+          allowUpdates: true
+          artifactErrorsFailBuild: true
+          artifacts: ${{ env.outfile }}
+          artifactContentType: zip
+          bodyFile: ./bodyfile.md
+          tag: ${{ env.version }}
+          name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
 
-            - if: env.modrinth-project-id != ''
-              uses: cloudnode-pro/modrinth-publish@v2
-              with:
-                  token: ${{ secrets.MODRINTH_TOKEN }}
-                  project: ${{ env.modrinth-project-id }}
-                  version: ${{ env.version }}
-                  loaders: ${{ env.loaders }}
-                  game-versions: ${{ env.game-versions }}
-                  files: ${{ env.outfile }}
-                  name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
-                  changelog: ${{ env.changelog }}
+      - if: env.modrinth-project-id != ''
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: ${{ env.modrinth-project-id }}
+          version: ${{ env.version }}
+          loaders: ${{ env.loaders }}
+          game-versions: ${{ env.game-versions }}
+          files: ${{ env.outfile }}
+          name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
+          changelog: ${{ env.changelog }}

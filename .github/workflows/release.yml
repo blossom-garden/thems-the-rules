@@ -35,8 +35,7 @@ jobs:
         id: info
         run: |
           let pack = (open ./pack.toml)
-          let changelog = ./changelog.nu | str trim
-          $changelog | save -f bodyfile.md
+          let changelog = open -r bodyfile.md
           $env.version = $pack.version
           $env.loaders = $pack.versions | columns | where $it != "minecraft" | to json -r
           $env.game-versions = $pack.versions.minecraft

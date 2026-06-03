@@ -545,6 +545,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "cd2fc98518db0e5235f8b179e9873a124c2f91e1e6173a5e8417369e221c5c15"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
 metafile = true

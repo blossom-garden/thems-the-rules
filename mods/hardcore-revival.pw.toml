@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "hardcorerevival-neoforge-1.21.1-21.1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/RNtG0obY/hardcorerevival-neoforge-1.21.1-21.1.14.jar"
+hash-format = "sha512"
+hash = "5ab453feaa9a12d68282ecdd11919833b563d90f13920c71c5359497b97a17879378d3301f431bd68780b7bcbdbea53704dea592fc0468312d405468e03199db"
+
+[update]
+[update.modrinth]
+mod-id = "HqKoXaXz"
+version = "RNtG0obY"

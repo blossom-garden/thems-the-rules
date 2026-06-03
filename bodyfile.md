@@ -1,15 +1,12 @@
 
-**1.2.1**
+**1.2.2**
 
 **Adicionado**
 
-- [Exposure Catalog](https://modrinth.com/project/PWcQ3kcp)
-- [Exposure: Detective](https://modrinth.com/project/rZsQks7N)
-- [Exposure: Expanded](https://modrinth.com/project/61XQmq6p)
-- [Exposure: Polaroid](https://modrinth.com/project/WEWiqYkW)
-- [Exposure](https://modrinth.com/project/hB899VmG)
+- [Keep Some Modded Inventory](https://modrinth.com/project/2b524hUn)
+- [Neo Origins](https://modrinth.com/project/RUtQ9kfe)
+- [Ready Player Fun](https://modrinth.com/project/AwiAYDUq)
 
 **Removido**
 
-- [Better Combat Particle](https://modrinth.com/project/Nc3f2m7t)
-- [World Border Evolved](https://modrinth.com/project/aunj9a2w)
+- [Towering Tepuis](https://modrinth.com/project/kmhI7qev)

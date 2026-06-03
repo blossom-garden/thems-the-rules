@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fluid.pw.toml"
-hash = "392f3bb7439dc8e138e65fb2e37497e5bf38f41b06a1f6c336009f86fd7f3e54"
+hash = "1537ddc1502eb87460debb70c9e34df8e8eb2b6820a31e8db7857b0effeaeb82"
 metafile = true
 
 [[files]]

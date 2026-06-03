@@ -34,7 +34,7 @@ jobs:
       - name: Get Info
         id: info
         run: |
-          use modlist.nu
+          use ./modlist.nu
           let pack = (open ./pack.toml)
           let changelog = modlist changelog | str trim
           let listofmods = ["\n" (modlist details)] | str join "\n"

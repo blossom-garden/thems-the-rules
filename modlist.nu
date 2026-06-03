@@ -61,13 +61,13 @@ export def details []: nothing -> string {
 }
 
 # Returns the most recently added files
-export def changelog []: nothing -> string {
+export def changelog [commits: int = 5]: nothing -> string {
   if not ("./pack.toml" | path exists) {
     print "No pack.toml found"
     exit 1
   }
 
-  let diff: table<status: string, file: string, hash: string> = git log -5 --name-status --pretty=format:"%H" --diff-filter=AD
+  let diff: table<status: string, file: string, hash: string> = git log $"-($commits)" --name-status --pretty=format:"%H" --diff-filter=AD
   | lines
   | chunk-by {|it| $it | is-not-empty}
   | where ($it.0 | is-not-empty)

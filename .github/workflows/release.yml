@@ -34,7 +34,6 @@ jobs:
       - name: Get Info
         id: info
         run: |
-          ls
           let pack = (open ./pack.toml)
           let changelog = ./changelog.nu | str trim
           $changelog | save -f bodyfile.md
@@ -46,6 +45,17 @@ jobs:
           $env.outfile = $"out/($env.name-kebab).mrpack"
           $env.changelog = $changelog
           if (not ("out" | path exists)) { mkdir out }
+          $"
+          version=($env.version)
+          loaders=($env.loaders)
+          game-versions=($env.game-versions)
+          name=($env.name)
+          name-kebab=($env.name-kebab)
+          outfile=($env.outfile)
+          changelog<<EOF
+          ($env.changelog)
+          EOF
+          " | save -a ${{GITHUB_ENV}}
 
       - uses: vspr-sh/packwiz-setup-action@master
       - name: Packwiz export

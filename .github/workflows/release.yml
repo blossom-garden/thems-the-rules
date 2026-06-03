@@ -34,13 +34,9 @@ jobs:
       - name: Get Info
         id: info
         run: |
-          use ./modlist.nu
           let pack = (open ./pack.toml)
-          let changelog = modlist changelog | str trim
-          let listofmods = ["\n" (modlist details)] | str join "\n"
+          let changelog = ./changelog.nu | str trim
           $changelog | save -f bodyfile.md
-          $listofmods | save -a bodyfile.md
-
           $env.version = $pack.version
           $env.loaders = $pack.versions | columns | where $it != "minecraft" | to json -r
           $env.game-versions = $pack.versions.minecraft

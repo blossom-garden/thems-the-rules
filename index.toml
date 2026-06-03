@@ -850,11 +850,6 @@ hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
 
 [[files]]
-file = "mods/sable-tool.pw.toml"
-hash = "e81b685cd4edbca965c8f8577897f12ad97fadb51c8d044ecb2b61010a537fcb"
-metafile = true
-
-[[files]]
 file = "mods/sable-x-xaero-bridge.pw.toml"
 hash = "46a5135d51e3974f4949844f3764581632dfb2ed0d2efaf0ca496a05723864d8"
 metafile = true

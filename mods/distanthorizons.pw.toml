@@ -14,3 +14,5 @@ version = "oYXIfeus"
 
 [option]
 optional = true
+default = false
+description = "DistantHorizons allows for the usage of LODs in minecraft, allowing greater render distance without burning your pc up"

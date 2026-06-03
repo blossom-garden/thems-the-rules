@@ -111,7 +111,6 @@ Survival alternative to May The Odds
 - [Jade Sable Compat](https://modrinth.com/project/jCrJ4iGH)
 - [Jade 🔍](https://modrinth.com/project/nvQzSEkH)
 - [Jewelry \(RPG Series\)](https://modrinth.com/project/sNJAIjUm)
-- [Keep Some Modded Inventory](https://modrinth.com/project/2b524hUn)
 - [Konkrete](https://modrinth.com/project/J81TRJWm)
 - [Kotlin for Forge](https://modrinth.com/project/ordsPcFz)
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/yBW8D80W)

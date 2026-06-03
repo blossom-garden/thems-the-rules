@@ -600,11 +600,6 @@ hash = "6138ad725b71ed421496fb95fb72b6850a289f01f399cae639838649526c5ea9"
 metafile = true
 
 [[files]]
-file = "mods/keep-some-modded-inventory.pw.toml"
-hash = "1141e6ccb56f06eeab5a3cf8df1afc63a428cfaeb127aed8dff4dcf6c09a0711"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true

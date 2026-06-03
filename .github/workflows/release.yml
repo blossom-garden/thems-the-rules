@@ -34,6 +34,7 @@ jobs:
       - name: Get Info
         id: info
         run: |
+          ls
           let pack = (open ./pack.toml)
           let changelog = ./changelog.nu | str trim
           $changelog | save -f bodyfile.md

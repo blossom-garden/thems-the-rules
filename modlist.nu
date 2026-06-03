@@ -50,7 +50,7 @@ export def all []: nothing -> string {
   | each {|it| $it | get metadata}
 
   [
-    $"\n**((open pack.toml).version)**"
+    $"\n"
     ($list | each {|it| $it | get link } | str join "\n")
   ] | str join "\n\n"
 }
@@ -118,4 +118,3 @@ def "get file" [--removed(-r)]: table<status: string, file: string, hash: string
   | where update? != null
   | each {|it| $it | get metadata}
 }
-

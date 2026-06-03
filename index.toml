@@ -225,11 +225,6 @@ hash = "d0fa701686c9533ae60cf096c3b4192bef2ab93e33c1f3ee885c2eb50715afc6"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-particle.pw.toml"
-hash = "76d869efee72d567504757aba194dd3f9821a4195ee45d50f3d29cbdfacf03ab"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
@@ -457,6 +452,31 @@ metafile = true
 [[files]]
 file = "mods/entombed.pw.toml"
 hash = "a4e88a49f490257bf803ccd41b7cba4402cfcfb418160f1192b6ae386145d57e"
+metafile = true
+
+[[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "88afea11493965d50807089deb03f489fa176cc47e670833971481dfd6e18fb9"
+metafile = true
+
+[[files]]
+file = "mods/exposure-detective.pw.toml"
+hash = "fa2ab5600a51cb1f73ac5abde6d1347747dcbffc4188fa552827445ce25e372a"
+metafile = true
+
+[[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "2ca112cf02d77db5e3bef5f3d18cd0d1393135bd75410989662dda0a9d43ab83"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
 
 [[files]]
@@ -796,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
+hash = "f2e5979a9d263f1016973f2de90619865b36e9291bd0b6021c7b03b23c5c7aa5"
 metafile = true
 
 [[files]]
@@ -881,12 +901,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
+hash = "96926b3c536668a886c6895565d8cbf06ec187c1efd4f0212ba12f8f97f7559e"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
 metafile = true
 
 [[files]]
@@ -997,11 +1017,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
-metafile = true
-
-[[files]]
-file = "mods/world-border-evolved.pw.toml"
-hash = "c48bdef3b9f0eeb831fabcf578b7e0e667212c75e08ee419cd991356de15e132"
 metafile = true
 
 [[files]]

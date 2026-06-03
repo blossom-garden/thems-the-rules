@@ -1,0 +1,13 @@
+name = "Exposure: Detective"
+filename = "ExposureDetective-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rZsQks7N/versions/DVKmsGWI/ExposureDetective-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "bda95bac71ff6fa41fa4c9b9f927a6d655e02535f06aae120b6b861fcbede8929ab2866678e6b39c50afb7438699253de5ae20cc0b6698e9bf226ad78b420438"
+
+[update]
+[update.modrinth]
+mod-id = "rZsQks7N"
+version = "DVKmsGWI"

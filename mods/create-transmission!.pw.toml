@@ -1,13 +1,13 @@
 name = "Create: Transmission!"
-filename = "createtransmission-1.1.2+neoforge-create6-1.21.1.jar"
+filename = "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QFCkBuIh/versions/jLaVyTXV/createtransmission-1.1.2%2Bneoforge-create6-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/QFCkBuIh/versions/mLEu54kE/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar"
 hash-format = "sha512"
-hash = "ce78f7a0bacff34ca1cfcac2b840047c8fcc2ed478173efa9dcb74f1bcc9c373b1a789ea0171363afaaf6ea3505d386cbfb3ec7351566cbdc0ce96d61ce24299"
+hash = "2d37f1e76a34da5ea52825aaa83848baca2b0327217c034d35188c968df4edad92ff73846cb5d5020aaeacd7350fc00eaa639871dde2ffe6a017fbad3aa87c19"
 
 [update]
 [update.modrinth]
 mod-id = "QFCkBuIh"
-version = "jLaVyTXV"
+version = "mLEu54kE"

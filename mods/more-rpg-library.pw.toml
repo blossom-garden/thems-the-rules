@@ -1,13 +1,13 @@
 name = "More RPG Library"
-filename = "more_rpg_library-neoforge-2.5.29+1.21.1.jar"
+filename = "more_rpg_library-neoforge-2.5.30+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/xQUUhWwH/more_rpg_library-neoforge-2.5.29%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/q5ner7CA/more_rpg_library-neoforge-2.5.30%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "42db873d7b72e22db36c1c20e853bf8eb45320663b8aafad436a3888575b318d9979da6225497c4a4fb2a0663988bcacb9f2f85d98a0913aa8c4183b6b660462"
+hash = "0d01720eb2b7b8cfbac01e70f8f2e21c504067c350d8f5980d91a0383738fd29fce544a7c6ea01f32f5a5eaaa060d061463f7918d5d6d1237f9c6dd5833eb3e7"
 
 [update]
 [update.modrinth]
 mod-id = "Wkc3lwHo"
-version = "xQUUhWwH"
+version = "q5ner7CA"

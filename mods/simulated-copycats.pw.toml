@@ -1,13 +1,13 @@
 name = "Aeronautics: simulated copycats"
-filename = "sim_copycats-1.1.1.jar"
+filename = "sim_copycats-1.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NYBH9vVY/versions/xgTl2NyN/sim_copycats-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/NYBH9vVY/versions/3mf1vH18/sim_copycats-1.1.6.jar"
 hash-format = "sha512"
-hash = "d9c69bc6c9a4f3293fb248192717d256d770294c939a165eea6cb0e36bdcbfded319791809e3a369951f73819f6879d71e3e5f6225cab02c93d19e3467e9c841"
+hash = "3cb11f99a1278cfbdc781f9cd445f4cf49bb7828ab993cac6567a2bebaffcd3f418adb59686dc6c42d17c827a0567f55c07fc2e4102be667281f6aa4dc64ef94"
 
 [update]
 [update.modrinth]
 mod-id = "NYBH9vVY"
-version = "xgTl2NyN"
+version = "3mf1vH18"

@@ -1,13 +1,13 @@
 name = "RPG Backpacks"
-filename = "rpg_backpacks-6.0.0-neoforge-1.21.1.jar"
+filename = "rpg_backpacks-6.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H7Edcy8k/versions/dlxKSVZB/rpg_backpacks-6.0.0-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/H7Edcy8k/versions/uB8os13W/rpg_backpacks-6.0.1-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "251368fdca7e74db35bc7639976dd2bd8533d56fa175c58be250e0236929fda62e8847f9c9cfcac2e4866c4b3309421a92ea9f476f641c1b47c3a1ce913082fb"
+hash = "0e60c170db02193d8410956fd71299308762e4de2a9d5f1abe745d6f3dccd2e6d365109803c5bd1def4e3f489c13bbd325ea7e0c63bf1694f6b9760e4d5939af"
 
 [update]
 [update.modrinth]
 mod-id = "H7Edcy8k"
-version = "dlxKSVZB"
+version = "uB8os13W"

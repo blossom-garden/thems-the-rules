@@ -702,6 +702,11 @@ hash = "117af7f7407e572a222fa1ee017d21c4da9bb7a9465ce12975ccc54ccd031006"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
 metafile = true
@@ -894,6 +899,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
+metafile = true
+
+[[files]]
+file = "mods/revamped-shipwrecks.pw.toml"
+hash = "8887b2ac12a78a32025ca60beab37fa71ea0c18fd0aee19d84c1047c36b51891"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cutting Delight"
+filename = "cuttingdelight-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5oqQBDcS/versions/vMc3KueH/cuttingdelight-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "6c7e81ba42b4fad46731183aa4b5be7a7d78e0646a577fb75a1ce30d55f1d5f2f5ba7fae2b5d29c7e91ed14ae01b4b0d6e9b2b172f254d8e501e975289cef0aa"
+
+[update]
+[update.modrinth]
+mod-id = "5oqQBDcS"
+version = "vMc3KueH"

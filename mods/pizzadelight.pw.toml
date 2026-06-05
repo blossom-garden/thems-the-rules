@@ -1,0 +1,13 @@
+name = "Pizza Delight"
+filename = "pizzadelight-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VTyLLiG/versions/mwfioMaE/pizzadelight-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "887a4c0e634beaf51494aba921fc34c84bc092cd9c693befbb3acf96423443bc1afc7ad1046060a298b8b715665125a80b33f79e673f8e353196ba75a5ce742d"
+
+[update]
+[update.modrinth]
+mod-id = "6VTyLLiG"
+version = "mwfioMaE"

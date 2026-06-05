@@ -61,16 +61,8 @@ file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "842ec3a767be587889c6bdee96a1ca97420ea8d9f4250240067414f78c566c5c"
 
 [[files]]
-file = "config/yosbr/config/waterworks-server.toml"
-hash = "453add5a77a4c370ecdc75184063fb3b1edf20f16ba5bcab24556d881f2ff10a"
-
-[[files]]
-file = "config/yosbr/keybindings.txt"
-hash = "c64716dab60bae0549afdc30b24f0b88d83434194ea4c902f8071f1eec671040"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "4a5718c10201971150b628182a4102016d2f5f9eb52b953ea5df467a908721d9"
+hash = "570a6828dd6f5bc751a075565111e552af1e065f85ee5dfbe5a01df9236f46a7"
 
 [[files]]
 file = "datapacks/cliffs-and-coves.pw.toml"
@@ -240,6 +232,11 @@ hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
@@ -280,8 +277,18 @@ hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "68a6089104825858beb345ab44c435fff997cf5f1560b39e215574b3e1ae5c2c"
 metafile = true
 
 [[files]]
@@ -325,8 +332,18 @@ hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
 metafile = true
 
 [[files]]
+file = "mods/create-fd-dough.pw.toml"
+hash = "734ac10c4af17fc334c9440e7919ea1621730f41f9edcaaf848d6ba3aa450a3e"
+metafile = true
+
+[[files]]
 file = "mods/create-fluid.pw.toml"
 hash = "1537ddc1502eb87460debb70c9e34df8e8eb2b6820a31e8db7857b0effeaeb82"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "52579ab76fea3d22a2507820122f5880c8dd83bef8fed911b782758fa4c0ecc2"
 metafile = true
 
 [[files]]
@@ -380,8 +397,18 @@ hash = "d5327d0d6c38e643cee1778d5ea49232782ded0ec7f7b3b7e0ab20dec6db2eb7"
 metafile = true
 
 [[files]]
+file = "mods/cutting-delight.pw.toml"
+hash = "f4682872ddfe482adee9aeccfe0db6f48b94380fe1d71eb46715d6ec663bfb13"
+metafile = true
+
+[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "01d92d8ba2e35a9a46405a601849aed400b4d539f7db9b6500ab5ee40806da9a"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators.pw.toml"
+hash = "3b26aa1f81c86ead9da08dcf8d2af6d5ad5ce00211a1d7a1773b9f5a9dcc68a6"
 metafile = true
 
 [[files]]
@@ -392,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/discordpresence.pw.toml"
 hash = "6b73da18b8ed3fcd76e3a66c4f8d9a1b7be63fbaee2e580445e3f55d91898d0e"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -500,6 +532,11 @@ hash = "f9398de9ed43f360533cd4a58763a48ccc0674ab7943401e297d1f4a58e775e7"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -537,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/glaidens-vista-improvements.pw.toml"
+hash = "abd157751e7953ee6600ec9b3e8ec00f2af008ac754fcee6a85e99d75d58bd16"
 metafile = true
 
 [[files]]
@@ -710,6 +752,11 @@ hash = "63b368e33b62603516db172ae753dee5e90e5f9f943513ea2cafef53572e87d2"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
+metafile = true
+
+[[files]]
 file = "mods/neo-origins.pw.toml"
 hash = "b869caf2f509802ddac80afdd368f77012a47b161be548be8108c4df24843487"
 metafile = true
@@ -735,6 +782,11 @@ hash = "f81c75d8883fdafc7da5fe461f39ed3b9001100cc092cc8238774a8ec7ab9798"
 metafile = true
 
 [[files]]
+file = "mods/overpacked.pw.toml"
+hash = "c26c332f79e9131f887055224ae6dc4d925d037e212f90be1e2e52797951651e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -757,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/pf-neoforge.pw.toml"
 hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
+metafile = true
+
+[[files]]
+file = "mods/pizzadelight.pw.toml"
+hash = "ef95253df9bbfe5761482d7f675d772873268a534bb8e4950cb06beb78082609"
 metafile = true
 
 [[files]]
@@ -837,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
+metafile = true
+
+[[files]]
+file = "mods/right-click-and-milk.pw.toml"
+hash = "73d08f8ff9736353b8dda9d80dd140273f5232768ac70e28115505033c2d0a36"
 metafile = true
 
 [[files]]
@@ -930,6 +992,11 @@ hash = "24c08cd3a5285d0e4876c237f2f1fecadf25efa19bbbc8718dd8e66d27e229a8"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "3df81c179b5d2c98d5e339285555e03d1197dc213f8a84bf1e611ea6d036d068"
+metafile = true
+
+[[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "b43fd8343ee66b129ea22bcd7ba47ad392e7edc33cb24be0ed604b2225ed0229"
 metafile = true
@@ -975,6 +1042,16 @@ hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
 metafile = true
 
 [[files]]
+file = "mods/traveler-tool-belt.pw.toml"
+hash = "7cffd9241055f5e1860d8702961071d2365201bae8630a97add0fb25b99004db"
+metafile = true
+
+[[files]]
+file = "mods/tweaks-delight.pw.toml"
+hash = "448c6bb3021baacea176e4145be340e6e70c7f8d4e5ba8594c0908282ab8eb5b"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
 metafile = true
@@ -987,11 +1064,6 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "d96fe12674f0a9d208ab683e0799542b03ddfd9b17bd89996f3fca73dd3df2dd"
-metafile = true
-
-[[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
 
 [[files]]

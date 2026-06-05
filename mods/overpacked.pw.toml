@@ -1,0 +1,13 @@
+name = "Overpacked"
+filename = "overpacked-1.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wC2kwFup/versions/5JWGCEeC/overpacked-1.2-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "4b722caae256b21437b545150bda94b0a952f7643bfb1a9a7602720afeaa22b002b427b2fd29d1d0679a8d8597dd16318f5a5a67de982faa365c70c5668fe8ff"
+
+[update]
+[update.modrinth]
+mod-id = "wC2kwFup"
+version = "5JWGCEeC"

@@ -1,0 +1,13 @@
+name = "Tweaks Delight"
+filename = "tweaksdelight-26.04.09-1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k4B832GB/versions/rfN4i5R5/tweaksdelight-26.04.09-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "25874119a7db979d2461cb2bf07991879f5343ba235ccd8636cfac568626deb6371a61cac3922c21a73f9ce75127aa8db9de472976f97f619e38f1f33daccc01"
+
+[update]
+[update.modrinth]
+mod-id = "k4B832GB"
+version = "rfN4i5R5"

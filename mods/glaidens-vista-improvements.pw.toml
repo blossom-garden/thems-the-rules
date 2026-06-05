@@ -1,0 +1,13 @@
+name = "Glaiden's Vista improvements"
+filename = "Glaidens-Vista-improvements-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hQVvv1s7/versions/BW3l1EVi/Glaidens-Vista-improvements-1.0.6.jar"
+hash-format = "sha512"
+hash = "3464bf50ba927b7a06f4ca0fda6bc6c5d0a37e6588bf4d701493f374802c80810072e89fd18bb755a695c6f08461937d3b2dc5668cf4317b49f91be566e25c95"
+
+[update]
+[update.modrinth]
+mod-id = "hQVvv1s7"
+version = "BW3l1EVi"

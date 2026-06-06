@@ -217,11 +217,6 @@ hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "9e07e8e026e2224afe5ac1ef365e9548aa5b86348e4e828d509b671d48aec2d9"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true

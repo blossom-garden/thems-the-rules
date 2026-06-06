@@ -1,0 +1,13 @@
+name = "Spotlights or Something"
+filename = "searchlights-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCNay0Nd/versions/c5pFYzuJ/searchlights-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "f51b9f647d937ecf9409fa501a2f60c5287afea1020440cf0fcd0b37f2306c367501e94434f6be6bd7d8b5a81e144cb07386d9736d198c5eb451c35d93484e46"
+
+[update]
+[update.modrinth]
+mod-id = "nCNay0Nd"
+version = "c5pFYzuJ"

@@ -107,11 +107,6 @@ hash = "62d3cf629a5edba7e4bd7d2eeb8b87c2989758e540658cff9fbd2437754d4431"
 metafile = true
 
 [[files]]
-file = "mods/aero_cam_sync.pw.toml"
-hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
-metafile = true
-
-[[files]]
 file = "mods/aeronautics-addition.pw.toml"
 hash = "c1938b904258f9b15a9ce93d9c7221be075f270b7c641a188b739f35d8c8f66e"
 metafile = true
@@ -217,11 +212,6 @@ hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
-metafile = true
-
-[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
@@ -254,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/carryon-aeronautics-compat.pw.toml"
 hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
@@ -319,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
+file = "mods/create-compact_transmission.pw.toml"
+hash = "a07200d23181cde8069f0c806ce42c94f096d5fd8c472684e19b21716f459da9"
 metafile = true
 
 [[files]]
@@ -657,6 +647,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/lamb-lanterns.pw.toml"
+hash = "152717a54d8ebd6d4901e6e42511d12b53803bf0bfc16350cd078e55d39e4f19"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
@@ -727,11 +722,6 @@ hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
 metafile = true
 
 [[files]]
-file = "mods/modefite-item-definition-backport.pw.toml"
-hash = "d5e22fe1cacf92f856df16785fd07587ec709b238aca42c91405ff91aa0bed6d"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
@@ -772,11 +762,6 @@ hash = "d1d66e8a6f72a031ec1ecc040b065aba512a800484ff5a36c08ae9b97e583ea0"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
@@ -802,21 +787,6 @@ hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
-metafile = true
-
-[[files]]
-file = "mods/particular-reforged.pw.toml"
-hash = "946427fd1d5d6efda378bab0afc23bf0c450ae3ab04fd83789828e98b2cd1a81"
-metafile = true
-
-[[files]]
-file = "mods/pf-neoforge.pw.toml"
-hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
-metafile = true
-
-[[files]]
 file = "mods/pizzadelight.pw.toml"
 hash = "ef95253df9bbfe5761482d7f675d772873268a534bb8e4950cb06beb78082609"
 metafile = true
@@ -837,28 +807,13 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "636f08c84e9a1e1793850aa4f2390e5ece8fc25abee1d5d83679f3813e113802"
-metafile = true
-
-[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-x-sable.pw.toml"
-hash = "b935ef30071e33025010c390655d53c53fc7bf82fecc8ac2b3cad0b98accee0d"
-metafile = true
-
-[[files]]
 file = "mods/pufferfishs-unofficial-additions.pw.toml"
 hash = "9709dcfcc794b61de4c467b30d68da3caaab27e6022cfb3348b4fcf9b9f4f0e8"
-metafile = true
-
-[[files]]
-file = "mods/punchy-fpa.pw.toml"
-hash = "1124f89eebf45179ffbe0b81d165e182ae236e171b8687951f870010d0bbb35f"
 metafile = true
 
 [[files]]
@@ -874,11 +829,6 @@ metafile = true
 [[files]]
 file = "mods/ready-player-fun.pw.toml"
 hash = "7913508fee049340d77039a85c84851d9079fac630400215fd6e878dbe181fbc"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-treasure-balloons.pw.toml"
-hash = "b5e457b39566ffac9c828262b0d9c397877db828a6308ee9e67ccc9780021c69"
 metafile = true
 
 [[files]]
@@ -904,6 +854,11 @@ metafile = true
 [[files]]
 file = "mods/revamped-shipwrecks.pw.toml"
 hash = "8887b2ac12a78a32025ca60beab37fa71ea0c18fd0aee19d84c1047c36b51891"
+metafile = true
+
+[[files]]
+file = "mods/reworked-locator-bar.pw.toml"
+hash = "65ae91b5ea838cfbaf527e967f7c17c2bc6e305d272f729c4fedcd79c3315b72"
 metafile = true
 
 [[files]]
@@ -982,11 +937,6 @@ hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "acfe7dd52f3ccbffe994cd25d0fe4166365a4c7c059bead3cf1ea682565bb944"
 metafile = true
@@ -999,6 +949,11 @@ metafile = true
 [[files]]
 file = "mods/spooky-doors.pw.toml"
 hash = "24c08cd3a5285d0e4876c237f2f1fecadf25efa19bbbc8718dd8e66d27e229a8"
+metafile = true
+
+[[files]]
+file = "mods/spotlights-or-something.pw.toml"
+hash = "b6f0305bd03c65e274a9bbe5076f080c87b27fb829fbd97e7a958611dc496d95"
 metafile = true
 
 [[files]]
@@ -1047,11 +1002,6 @@ hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
 metafile = true
 
 [[files]]
-file = "mods/touys.pw.toml"
-hash = "54e20f405bc465dcb41aaaa2c13b29d31e41c947f086d3f6a21c808201690d61"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
 metafile = true
@@ -1087,16 +1037,6 @@ hash = "c493f2722c4a9c08029f43140babc8f37bacfda57932ce5b29b29e388710fe82"
 metafile = true
 
 [[files]]
-file = "mods/voice-chat-global-spectator-chat.pw.toml"
-hash = "2fd991d66291d7f368465e8413382e080594bdd820c081c43f11b8237fdd1820"
-metafile = true
-
-[[files]]
-file = "mods/wakes-reforged.pw.toml"
-hash = "a01afb86823e4097f6c88a3f8a2beb042b84e600ca45482981d2d60e1a6d62a8"
-metafile = true
-
-[[files]]
 file = "mods/waystones-teleport-pets.pw.toml"
 hash = "1b174c5980081e1701100862260ec25bdff80d84c949bf847b1703d0b2b7896f"
 metafile = true
@@ -1114,11 +1054,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-map-server-utils.pw.toml"
-hash = "75b3010e19f9a02570ef3d9a2c8b013c573631402bb0c03f82856e34edcbaf49"
 metafile = true
 
 [[files]]

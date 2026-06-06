@@ -1,7 +1,11 @@
 
-**1.3.1**
+**1.3.2**
 
 **Adicionado**
 
-- [Lootr](https://modrinth.com/project/EltpO5cN)
-- [Revamped Shipwrecks](https://modrinth.com/project/ZnZ8uqXN)
+- [Burnt Basic](https://modrinth.com/project/aclfPzta)
+- [Pxl's Paths](https://curseforge.com/projects/1119511)
+
+**Removido**
+
+- [MUSYNC - Music Sync for Minecraft](https://modrinth.com/project/Pdt1iYTy)

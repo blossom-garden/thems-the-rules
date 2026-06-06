@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+hash = "9e07e8e026e2224afe5ac1ef365e9548aa5b86348e4e828d509b671d48aec2d9"
 metafile = true
 
 [[files]]
@@ -239,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
+metafile = true
+
+[[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "44302c0b9c5e79066d77346140e933c9bda958326ffdf679df98987622b2d4e4"
 metafile = true
 
 [[files]]
@@ -752,11 +757,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/musync.pw.toml"
-hash = "63b368e33b62603516db172ae753dee5e90e5f9f943513ea2cafef53572e87d2"
-metafile = true
-
-[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
 metafile = true
@@ -949,6 +949,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
+metafile = true
+
+[[files]]
+file = "mods/simply-desire-paths.pw.toml"
+hash = "43e9a2d50b473913d10c16e14f273d266ff76309b89afc86151f3c26cc147391"
 metafile = true
 
 [[files]]

@@ -1142,16 +1142,6 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
-hash = "94141db698374070dbc979de6679471e46d6c62cbb0587be26b9bd7be82b310b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mushrooms-plus.pw.toml"
-hash = "0db4f35da5de891768a3bb230f28d1e11bf5cee1cc799485e2888ae3a1cac1ac"
-metafile = true
-
-[[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true

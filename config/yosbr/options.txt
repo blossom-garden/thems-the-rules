@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["mod/punchy:resourcepacks/punchy","vanilla","fabric","mod_resources","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","file/FancyFast Bushy Leaves.zip","file/Fancy Crops v1.3.zip","file/Simple Grass Flowers v1.9.6.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/Fresh Flowers and Plants.zip","file/MushroomsPlus_26.1_v1.4.zip","file/RPG_Series_Icons-1.4.0+1.21.1.zip","file/FreshAnimations_v1.10.4.zip","file/FA+Quivers-v2.2.zip","file/FA+Details-v2.2.1.zip","file/FA+Creepers-v2.1.zip","file/FA+Emissive-v1.6.zip","file/FA+Spiders-v2.2.zip","file/FA+Player-v1.0.zip","file/PA-FA-Compat-v1.zip","file/FA+Player-vJE.zip","file/Modded Swords x Punchy! 1.21.1 v1.3.1.zip","file/refined torches 2.1.zip","file/HyperPunchy-v2.5+.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","file/Simple Lower Grass Sides v1.1.0.zip","file/RPG_Series_Icons-1.4.0+1.21.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br

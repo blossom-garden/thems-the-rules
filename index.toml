@@ -62,7 +62,7 @@ hash = "842ec3a767be587889c6bdee96a1ca97420ea8d9f4250240067414f78c566c5c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "570a6828dd6f5bc751a075565111e552af1e065f85ee5dfbe5a01df9236f46a7"
+hash = "e4f014f7886ca5d41c3af0c30dedfe831f6fe86492ab1dc748af569aed25bcbc"
 
 [[files]]
 file = "datapacks/cliffs-and-coves.pw.toml"
@@ -1142,23 +1142,8 @@ hash = "94141db698374070dbc979de6679471e46d6c62cbb0587be26b9bd7be82b310b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/hyper-punchy.pw.toml"
-hash = "c1a500647c961f03e2e7b52364e1deefc860f56a6fe340355a04d7b04d05e111"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mushrooms-plus.pw.toml"
 hash = "0db4f35da5de891768a3bb230f28d1e11bf5cee1cc799485e2888ae3a1cac1ac"
-metafile = true
-
-[[files]]
-file = "resourcepacks/punchy!-compatibility.pw.toml"
-hash = "dd61336de1243db01c7a004101dda9f3a0e37cbcccce1e236b736b4b9cfb035f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/refined-torches.pw.toml"
-hash = "97019b65775c329603fedf2c4e5038c98a2192fc4630635e873597ee5ff9ad72"
 metafile = true
 
 [[files]]

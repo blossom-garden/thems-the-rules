@@ -487,6 +487,11 @@ hash = "a4e88a49f490257bf803ccd41b7cba4402cfcfb418160f1192b6ae386145d57e"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "0cb5a7898046f76fbd69e195402a034fb5e7a5aa9a318d05ccdd2b6a3ec24501"
+metafile = true
+
+[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "88afea11493965d50807089deb03f489fa176cc47e670833971481dfd6e18fb9"
 metafile = true
@@ -952,11 +957,6 @@ hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]
-file = "mods/simply-desire-paths.pw.toml"
-hash = "43e9a2d50b473913d10c16e14f273d266ff76309b89afc86151f3c26cc147391"
-metafile = true
-
-[[files]]
 file = "mods/simulated-copycats.pw.toml"
 hash = "23d57ecbbfffa98d9a4482d246da5d2d3d6b9b1955588ac18698e9e7a637ca93"
 metafile = true
@@ -1024,6 +1024,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
+metafile = true
+
+[[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
 metafile = true
 
 [[files]]
@@ -1097,6 +1102,16 @@ hash = "a01afb86823e4097f6c88a3f8a2beb042b84e600ca45482981d2d60e1a6d62a8"
 metafile = true
 
 [[files]]
+file = "mods/waystones-teleport-pets.pw.toml"
+hash = "1b174c5980081e1701100862260ec25bdff80d84c949bf847b1703d0b2b7896f"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
+metafile = true
+
+[[files]]
 file = "mods/witcher-rpg-class.pw.toml"
 hash = "55e70c73fb1d63461131a30a1bfae8acff1665f9a4ced8d3655dd0e131e49c4c"
 metafile = true
@@ -1109,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-map-server-utils.pw.toml"
 hash = "75b3010e19f9a02570ef3d9a2c8b013c573631402bb0c03f82856e34edcbaf49"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
 metafile = true
 
 [[files]]

@@ -1087,6 +1087,11 @@ hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fa-player-extension+just-expressions.pw.toml"
+hash = "08b5cd4c0067b99926e1f07ddd83dc587dadddcb1e8414b2827b967d51171743"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fa-player-extension-x-better-combat.pw.toml"
 hash = "135fea42667366e9eaad1fa0df56eb014fbc7223f7166704218377c74388dfa6"
 metafile = true

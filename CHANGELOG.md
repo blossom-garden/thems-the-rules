@@ -4,6 +4,12 @@
 
 # Thems The Rules Changelog
 
+**1.5.1**
+
+**Removido**
+
+- [Barehanded](https://modrinth.com/project/NnSJuVRa)
+
 **1.5.0**
 
 **Adicionado**

@@ -122,6 +122,11 @@ hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
 metafile = true
 
 [[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "eb072ec029ede8bccae7b0e5ee5faac555fa6c5a58062bdb6c2543ed6debb2e1"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -189,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/bard-more-rpg-classes.pw.toml"
 hash = "95107422e2c44dbe2a9e98087fc3c2d79f1741a5982301f16fb662c1e1fc2ff4"
+metafile = true
+
+[[files]]
+file = "mods/barehanded.pw.toml"
+hash = "f79988d722580ea2205325455762873fbb39e900ce874c1dca1898c0a46ed925"
 metafile = true
 
 [[files]]
@@ -367,6 +377,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "78b82b352bd67ec8715fb9ec91e1b3665be0d3fc343d2c8cc8ed2e7800b70716"
+metafile = true
+
+[[files]]
 file = "mods/critical-strike.pw.toml"
 hash = "8f7ec1d22f09c9a78d88a13763e4e780f6111e45685f8147e7afd6e49aea4a5c"
 metafile = true
@@ -407,6 +422,11 @@ hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-sable.pw.toml"
+hash = "fb0effe4c6ef4c5a149d3b63b8fe51ac5449bf981cf7d74b06c7cb775cc5415a"
+metafile = true
+
+[[files]]
 file = "mods/discordpresence.pw.toml"
 hash = "6b73da18b8ed3fcd76e3a66c4f8d9a1b7be63fbaee2e580445e3f55d91898d0e"
 metafile = true
@@ -434,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/druids.pw.toml"
 hash = "7c9f353f2fb468c257a37184fc5121c0bf3af3465cd10d0e0d37c34a897a7996"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+hash = "84b3111094c93f095e1cfece1aea308f005e91a3e90d4f044202108cabefec6f"
 metafile = true
 
 [[files]]
@@ -512,6 +537,11 @@ hash = "2e0f5441336f5c080df145c9dd633196bd42888a32fbfd0163913bac6fd2cb72"
 metafile = true
 
 [[files]]
+file = "mods/failte-skill-tree.pw.toml"
+hash = "97c7c38a0181d6f9fa23e1961544f29cc3a65c01e64e46f293283ecab0648f05"
+metafile = true
+
+[[files]]
 file = "mods/fairylights.pw.toml"
 hash = "bee3212ed7a6543fdb3d0f7fd1ae5bd2729f4fc827f012d3b4699d02d9c8dabd"
 metafile = true
@@ -562,6 +592,11 @@ hash = "bba98b862849d9463d639857b8eff281e807b9c12d320cc56e3e99d6d9710356"
 metafile = true
 
 [[files]]
+file = "mods/gazebos.pw.toml"
+hash = "7fc039ec92f628dc7679a7afcb319f443081c3aecc59819257cb32100a85af38"
+metafile = true
+
+[[files]]
 file = "mods/gears-n-kinetics.pw.toml"
 hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
 metafile = true
@@ -599,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "cd2fc98518db0e5235f8b179e9873a124c2f91e1e6173a5e8417369e221c5c15"
+metafile = true
+
+[[files]]
+file = "mods/improved-village-placement.pw.toml"
+hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
 metafile = true
 
 [[files]]
@@ -697,6 +737,31 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "eec0715d020c6079c430338684d4cd752aa55231cb7887174b361481834e3ac4"
+metafile = true
+
+[[files]]
+file = "mods/lne-archers.pw.toml"
+hash = "6eb8f90d5321e3d7ed0ef01f6ac71e349c1f93d20088cb230863ba5aae3955dc"
+metafile = true
+
+[[files]]
+file = "mods/lne-paladins.pw.toml"
+hash = "ff7c5b78c404600359552dda84ff4875b8a0f1f1b2b9cdfea23ae4518d3cba1f"
+metafile = true
+
+[[files]]
+file = "mods/lne-rogues.pw.toml"
+hash = "62c8b04c279d075b3590167b0510eb6459385b93efd9f9aa92ca438fb1b33367"
+metafile = true
+
+[[files]]
+file = "mods/lne-wizards.pw.toml"
+hash = "047400a89448d354e09114e95a377bf64298310bc1179b74e33b515799826716"
+metafile = true
+
+[[files]]
 file = "mods/loading-invincibility.pw.toml"
 hash = "117af7f7407e572a222fa1ee017d21c4da9bb7a9465ce12975ccc54ccd031006"
 metafile = true
@@ -704,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/mages-guild-(rpg-structures).pw.toml"
+hash = "bf84fbec45a4b624896b5e4787bcb878b42ec0677b81743760194b2fed89f99e"
 metafile = true
 
 [[files]]
@@ -882,6 +952,11 @@ hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
 
 [[files]]
+file = "mods/sable-player-ragdolls.pw.toml"
+hash = "12f27d0f74090f1fbfcbe3b231f6c7209229082fd22c6567dbd5ebe90f82789d"
+metafile = true
+
+[[files]]
 file = "mods/sable-x-xaero-bridge.pw.toml"
 hash = "46a5135d51e3974f4949844f3764581632dfb2ed0d2efaf0ca496a05723864d8"
 metafile = true
@@ -947,6 +1022,11 @@ hash = "2c6eb75d262805c3a7e4d7ccb0a964c67511206fbdd1711504f41d538c62c237"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "4bbe84399d50251b09d141fdd2ec3df0c69b24d38de000945efb8790fb1bf127"
+metafile = true
+
+[[files]]
 file = "mods/spooky-doors.pw.toml"
 hash = "24c08cd3a5285d0e4876c237f2f1fecadf25efa19bbbc8718dd8e66d27e229a8"
 metafile = true
@@ -1002,6 +1082,11 @@ hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "5518dd2f6a5d88e4affb9df628604737893025206d7149579e4c24f909b130a3"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
 metafile = true
@@ -1009,6 +1094,11 @@ metafile = true
 [[files]]
 file = "mods/traveler-tool-belt.pw.toml"
 hash = "7cffd9241055f5e1860d8702961071d2365201bae8630a97add0fb25b99004db"
+metafile = true
+
+[[files]]
+file = "mods/trek.pw.toml"
+hash = "00afcbfc1b6771e8650e868dcdb6f0aac3a319b8de9bf363530ce7a62bd807fe"
 metafile = true
 
 [[files]]
@@ -1029,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "d96fe12674f0a9d208ab683e0799542b03ddfd9b17bd89996f3fca73dd3df2dd"
+metafile = true
+
+[[files]]
+file = "mods/village-taverns.pw.toml"
+hash = "8cc0abc83f6856b8f5b6cbcd1c36da9d9315d273fe8c4ec87fbdafa337f82f0a"
 metafile = true
 
 [[files]]

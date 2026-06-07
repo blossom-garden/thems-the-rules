@@ -1,0 +1,13 @@
+name = "Fáilte Skill Tree"
+filename = "failte-skill-tree-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gaN5WSMo/versions/3169aYmx/failte-skill-tree-2.0.1.jar"
+hash-format = "sha512"
+hash = "4abeca08af418c6afd23ecea3e3b6cbc2bf584929342713fab890fd54833a038f72a5b21ca49dae001b4f13571bc67f592b0f8888e4f769fb4bac02d724144dc"
+
+[update]
+[update.modrinth]
+mod-id = "gaN5WSMo"
+version = "3169aYmx"

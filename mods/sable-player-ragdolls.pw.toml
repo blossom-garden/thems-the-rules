@@ -1,0 +1,13 @@
+name = "Sable: Player Ragdoll"
+filename = "sable_player_ragdoll-1.21.1-0.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I3mWDgfy/versions/4Na2k0d7/sable_player_ragdoll-1.21.1-0.4.3.jar"
+hash-format = "sha512"
+hash = "0fd3172afcbe025b2f654bb45fad3ca24ff8a4b8bff79a13d2d74b9360066116200c85222a47f4ca49f3523cfa6f49d9d5dfdc8a055e4decb4e701136050ef68"
+
+[update]
+[update.modrinth]
+mod-id = "I3mWDgfy"
+version = "4Na2k0d7"

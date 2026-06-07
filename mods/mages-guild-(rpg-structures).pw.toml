@@ -1,0 +1,13 @@
+name = "Mages Guild (RPG Structures)"
+filename = "RPGStructures_MageGuild_1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xdyY0KnK/versions/fPEupWV7/RPGStructures_MageGuild_1.0.4.jar"
+hash-format = "sha512"
+hash = "0a4abeb40f4dcd226c8f2541946736de04b90c59c3e0d86624948e8588d669e3e4a35cdf24c3eec5a5ffee8332979684c8208dad99e704889c72d5768c76ad59"
+
+[update]
+[update.modrinth]
+mod-id = "xdyY0KnK"
+version = "fPEupWV7"

@@ -197,11 +197,6 @@ hash = "95107422e2c44dbe2a9e98087fc3c2d79f1741a5982301f16fb662c1e1fc2ff4"
 metafile = true
 
 [[files]]
-file = "mods/barehanded.pw.toml"
-hash = "f79988d722580ea2205325455762873fbb39e900ce874c1dca1898c0a46ed925"
-metafile = true
-
-[[files]]
 file = "mods/berserker-rpg-class.pw.toml"
 hash = "d29e43039161cac96cee76f0b4bda1f14d93513de0f9a3fd2074e75006e45837"
 metafile = true

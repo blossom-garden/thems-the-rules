@@ -1,0 +1,13 @@
+name = "Barehanded"
+filename = "sablebarehanded-neoforge-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NnSJuVRa/versions/MD6bG4WN/sablebarehanded-neoforge-1.21.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "ba4fbfc908e498e46a76289783e70610ec68a2f06826900a75d2e1fa4ada4597ad80db27b6c22b502c9294b1c346723ea3868737466720d332015f617ab72781"
+
+[update]
+[update.modrinth]
+mod-id = "NnSJuVRa"
+version = "MD6bG4WN"

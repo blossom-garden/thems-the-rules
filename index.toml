@@ -199,6 +199,11 @@ hash = "95107422e2c44dbe2a9e98087fc3c2d79f1741a5982301f16fb662c1e1fc2ff4"
 metafile = true
 
 [[files]]
+file = "mods/barehanded.pw.toml"
+hash = "21ac896e82d4707391e89e8a427f54093dcbd3e9feafc84bc183c953bf3306b5"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true

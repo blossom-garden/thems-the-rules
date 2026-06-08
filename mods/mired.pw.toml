@@ -1,0 +1,13 @@
+name = "Mired"
+filename = "mired-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ekipPfV/versions/3THqzq4h/mired-1.0.0.jar"
+hash-format = "sha512"
+hash = "26fa95c69db36561230f81c8a8589947d744f0f2f515945e6dc80cca58920a4a3f7048a51a29756525fa7800f912071964241bd367bda21404458a828929bb49"
+
+[update]
+[update.modrinth]
+mod-id = "7ekipPfV"
+version = "3THqzq4h"

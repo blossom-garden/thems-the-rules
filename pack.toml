@@ -1,12 +1,12 @@
 name = "Thems The Rules"
 author = "kodiitulip"
-version = "1.5.1"
+version = "1.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fb2d5746852d23c40c5e1425ea9be13ac59112aad93bb29868c403a67210b5d5"
+hash = "d91f7ecc065bf39f0999f477d0787244ab1dbdb6f971ae7c70995e4f77586a99"
 
 [versions]
 minecraft = "1.21.1"

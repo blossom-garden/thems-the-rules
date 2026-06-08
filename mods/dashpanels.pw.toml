@@ -1,0 +1,13 @@
+name = "Dashpanels"
+filename = "dashpanels-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZJfGh82/versions/MRQVZN9B/dashpanels-0.4.jar"
+hash-format = "sha512"
+hash = "229c73ab4a56f90f903f1d7ae76001d559c5f12ce9546a50979d7a5e099c6e3b301e24814f2edeb19aeada2cbd88a3ec96eb1bb414323b1f0b07a73be098ae92"
+
+[update]
+[update.modrinth]
+mod-id = "xZJfGh82"
+version = "MRQVZN9B"

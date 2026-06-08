@@ -1,0 +1,13 @@
+name = "Modded Swords x Punchy! v2"
+filename = "Modded Swords x Punchy! 1.0 forge.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bWFMjFo8/versions/nxY5X0Wi/Modded%20Swords%20x%20Punchy%21%201.0%20forge.zip"
+hash-format = "sha512"
+hash = "eef2f056ff0e46c241ea8df1ef062bb2e88def5b97ff36cf3e8402e3f3b8d88ed39ce7cb477fb4939c37883448da3eee824da9c034903c94b88c60a73631a50a"
+
+[update]
+[update.modrinth]
+mod-id = "bWFMjFo8"
+version = "nxY5X0Wi"

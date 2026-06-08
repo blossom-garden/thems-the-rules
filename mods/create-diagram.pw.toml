@@ -1,0 +1,13 @@
+name = "Create: Diagram"
+filename = "creatediagram-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TBGyFoyW/versions/BFT5Z1JC/creatediagram-0.1.0.jar"
+hash-format = "sha512"
+hash = "264c870b08de7c461c1f009fba4c686430f2822a70773e2fb37abaac41796e656ac5f0fa1bd39bedb24c8ea3b827c7e8991824c8c674f41e450525313972363b"
+
+[update]
+[update.modrinth]
+mod-id = "TBGyFoyW"
+version = "BFT5Z1JC"

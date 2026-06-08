@@ -1,0 +1,23 @@
+{
+  "style": "CLASSIC",
+  "scale": 0.6,
+  "customOffsetX": 0,
+  "customOffsetY": 0,
+  "viewAngle": 90.0,
+  "showCoordinates": true,
+  "elementsOnXpBar": true,
+  "coordinatesFormat": "XYZ",
+  "showDays": false,
+  "daysDisplayOrder": "DAYS_UNDER_COORDS",
+  "showWorldDirections": true,
+  "worldDirectionsScale": 0.7,
+  "showPlayerHeads": true,
+  "playerHeadsScale": 1.2,
+  "playerHeadOutline": true,
+  "maxVisiblePlayers": 64,
+  "showWaypoints": true,
+  "showDeathWaypoint": true,
+  "waypointsScale": 1.0,
+  "maxVisibleWaypoints": 16,
+  "waypoints": {}
+}

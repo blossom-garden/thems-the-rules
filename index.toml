@@ -49,6 +49,10 @@ file = "config/fancymenu/options.txt"
 hash = "827df5ef2d1eed0f31923812b4b1acf341be555528c38a434f2fbc575b799fbf"
 
 [[files]]
+file = "config/yosbr/config/locatorbar.json"
+hash = "725bb4e9b06790bb119d7c31f4ea01605063e56e435d4410468e9ae8956d8f1d"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "d16bf7fe0c208b6858d0a8608ac5abebdf788eed13720be81f0784c948fcc0bd"
 
@@ -59,6 +63,10 @@ hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "842ec3a767be587889c6bdee96a1ca97420ea8d9f4250240067414f78c566c5c"
+
+[[files]]
+file = "config/yosbr/config/voxyworldgenv2.json"
+hash = "d6bcbba8bc466a8468f21e06741cfb65e3db05aa45930cc5a4d0de2a5203758a"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -560,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
-hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+hash = "bd66223dd82625d2ca7f3159865ce7c2bb8297619dd0fe71f9d6641a5e0b027b"
 metafile = true
 
 [[files]]
@@ -935,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "946427fd1d5d6efda378bab0afc23bf0c450ae3ab04fd83789828e98b2cd1a81"
+hash = "033f0bb5790da792d21d289f923655de18e796e2c5d7a12ec3249686dde70b3c"
 metafile = true
 
 [[files]]

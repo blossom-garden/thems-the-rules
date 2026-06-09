@@ -112,11 +112,6 @@ hash = "c1938b904258f9b15a9ce93d9c7221be075f270b7c641a188b739f35d8c8f66e"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-claims.pw.toml"
-hash = "b0f8fe9577037bc2c7528e95ee4c85ded4abfa7b068c54b14357e4e769346dac"
-metafile = true
-
-[[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
 hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
 metafile = true
@@ -169,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/areas.pw.toml"
+hash = "a4d8b41e9acd194adfcc6b16cf443d96e0e572ef54b2c622f3c9399b559f2666"
 metafile = true
 
 [[files]]
@@ -297,8 +297,8 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "mods/clutter-no-more.pw.toml"
-hash = "57116b1b65458c60b0a04c94c01d39c26b653d2bf09e12366a9aed553567e7ce"
+file = "mods/collective.pw.toml"
+hash = "74bc0383c39468bf65dc1939e3ca4824409142c16c3896437da78fbd7fb658cd"
 metafile = true
 
 [[files]]
@@ -359,11 +359,6 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
-metafile = true
-
-[[files]]
-file = "mods/create-compact_transmission.pw.toml"
-hash = "a07200d23181cde8069f0c806ce42c94f096d5fd8c472684e19b21716f459da9"
 metafile = true
 
 [[files]]
@@ -529,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/e4all.pw.toml"
 hash = "6dc38a93abae30bb9727e5aa3cb36dfa3f0c771d0548d187569e4cc9cad9fd7f"
+metafile = true
+
+[[files]]
+file = "mods/easy-elytra-takeoff.pw.toml"
+hash = "96973d668da9b7307f61885e605bf7d3042abae740b639258d72a34287e46fce"
 metafile = true
 
 [[files]]
@@ -914,11 +914,6 @@ metafile = true
 [[files]]
 file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
 hash = "f81c75d8883fdafc7da5fe461f39ed3b9001100cc092cc8238774a8ec7ab9798"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]

@@ -1247,11 +1247,6 @@ hash = "c493f2722c4a9c08029f43140babc8f37bacfda57932ce5b29b29e388710fe82"
 metafile = true
 
 [[files]]
-file = "mods/voxy-worldgen.pw.toml"
-hash = "6b74d73a605dcd760e52b046520d40e3b4ae66129a63302d406af00e3b307092"
-metafile = true
-
-[[files]]
 file = "mods/voxy.pw.toml"
 hash = "ec676556fdb2682f441d86ef98178f7bd5b7fda34437c991dc9710a887716eec"
 metafile = true

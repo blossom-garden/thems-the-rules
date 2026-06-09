@@ -567,11 +567,6 @@ hash = "0cb5a7898046f76fbd69e195402a034fb5e7a5aa9a318d05ccdd2b6a3ec24501"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement-forge.pw.toml"
-hash = "bd66223dd82625d2ca7f3159865ce7c2bb8297619dd0fe71f9d6641a5e0b027b"
-metafile = true
-
-[[files]]
 file = "mods/exposure-catalog.pw.toml"
 hash = "88afea11493965d50807089deb03f489fa176cc47e670833971481dfd6e18fb9"
 metafile = true
@@ -939,11 +934,6 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
-metafile = true
-
-[[files]]
-file = "mods/particular-reforged.pw.toml"
-hash = "033f0bb5790da792d21d289f923655de18e796e2c5d7a12ec3249686dde70b3c"
 metafile = true
 
 [[files]]

@@ -7,11 +7,17 @@ def "metafiles" [context] {
       pin: ($info.pin? | default false)
     }
   }
-
-  match ($context | split words | last) {
-    pin => ($values | where pin == false),
-    unpin => ($values | where pin == true),
-    _ => $values,
+  {
+    options: {
+      case_sensitive: true,
+      completion_algorithm: fuzzy,
+      sort: true,
+    },
+    completions: (match ($context | split words | last) {
+      pin => ($values | where pin == false),
+      unpin => ($values | where pin == true),
+      _ => $values,
+    })
   }
 }
 

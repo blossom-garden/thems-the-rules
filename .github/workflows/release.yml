@@ -4,11 +4,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-    inputs:
-      modrinth-release:
-        type: boolean
-        default: false
-        description: Publish Modrinth Release
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref || github.run_id }}
@@ -17,9 +12,6 @@ concurrency:
 defaults:
   run:
     shell: nu {0}
-
-env:
-  modrinth-project-id: ''
 
 jobs:
   export:
@@ -79,15 +71,3 @@ jobs:
           bodyFile: ./bodyfile.md
           tag: ${{ env.version }}
           name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
-
-      - if: env.modrinth-project-id != ''
-        uses: cloudnode-pro/modrinth-publish@v2
-        with:
-          token: ${{ secrets.MODRINTH_TOKEN }}
-          project: ${{ env.modrinth-project-id }}
-          version: ${{ env.version }}
-          loaders: ${{ env.loaders }}
-          game-versions: ${{ env.game-versions }}
-          files: ${{ env.outfile }}
-          name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
-          changelog: ${{ env.changelog }}

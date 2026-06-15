@@ -9,8 +9,9 @@
 /files
 /LICENSE
 *.lock
+utils/
 .markdownlint-cli2.yaml
-*.nu
+*.nu*
 *.sh
 dependencies.*
 .prettierrc

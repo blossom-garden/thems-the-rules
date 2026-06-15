@@ -1,14 +1,13 @@
 name = "Motion Capture"
-filename = "Mocap-NEOFORGE-1.21.1-1.3.8.jar"
+filename = "Mocap-NEOFORGE-1.21.1-1.4-alpha-10.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/gWu44BYU/versions/tXBx1X9r/Mocap-NEOFORGE-1.21.1-1.3.8.jar"
+url = "https://cdn.modrinth.com/data/gWu44BYU/versions/bNkjeHD2/Mocap-NEOFORGE-1.21.1-1.4-alpha-10.jar"
 hash-format = "sha512"
-hash = "1cb0abb3a24d5cd22ebe29223495be1530922a7e80ba01e3056305992a1e16b1b684808da2defee8a40c98fbc9939cd83a9e9890d5fda1c8e440af640924cd23"
+hash = "e0dad1e55d24d0f36dd4e608947b5ece487029f89bc73f22be020c79ad4537cf958695bb8bd7983002db0c1dc92137424358fe85632e79da662439997c4749ce"
 
 [update]
 [update.modrinth]
 mod-id = "gWu44BYU"
-version = "tXBx1X9r"
+version = "bNkjeHD2"

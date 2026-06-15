@@ -1,17 +1,16 @@
 name = "Wavify"
-filename = "wavify-1.0.3.jar"
+filename = "1.21.1-neo-wavify-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yTjEgNSm/versions/K75JLjMB/wavify-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/yTjEgNSm/versions/YhuQHKVp/1.21.1-neo-wavify-1.1.0.jar"
 hash-format = "sha512"
-hash = "76ab1d556fbe1ae24b050217f169c7ad25e251c584e27d24eb6e4c7fd193ffecfef8e7b25f0c6b0be6c6e7c217094306035c0735405b5ba224bec7c6d0067641"
+hash = "d01889d308a2e5ae0bc1880651bcac9f0a0df46fedf17da393d2de9abb75c67537ab5c953855ff76922a7f84ba7162e811889515bd4dab4c8fc0a0a278e2ab4c"
 
 [update]
 [update.modrinth]
 mod-id = "yTjEgNSm"
-version = "K75JLjMB"
+version = "YhuQHKVp"
 
 [option]
 optional = true
-default = false

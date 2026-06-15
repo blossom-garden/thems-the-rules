@@ -1,13 +1,13 @@
 name = "Tiny Gates"
-filename = "tinygates-1.21.1-5.0.1.jar"
+filename = "tinygates-1.21.1-5.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vsk0qTRw/versions/1ULU6eVP/tinygates-1.21.1-5.0.1.jar"
+url = "https://cdn.modrinth.com/data/vsk0qTRw/versions/DAfDNSps/tinygates-1.21.1-5.0.2.jar"
 hash-format = "sha512"
-hash = "9b1a77e12329789bc2ac2e0043cda8854cfb28c002f6933c9507fc62ac9f9777bc181d899f582bab0bc5528d077c0f5a8be2ccb08b6031b575a0d734d4837d7a"
+hash = "90c8050b342e06b4fac1d6a7ab31e4e6f158a70e4916b570dc95705e4288d5906f64baf54cd341907beace6181e8b8184b31d29c32de116322ee7d232b96e8a3"
 
 [update]
 [update.modrinth]
 mod-id = "vsk0qTRw"
-version = "1ULU6eVP"
+version = "DAfDNSps"

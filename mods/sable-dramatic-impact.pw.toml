@@ -1,0 +1,13 @@
+name = "Sable: Dramatic Impact"
+filename = "sabledramaticimpact-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/82kuUv49/versions/cyLPsvEf/sabledramaticimpact-1.0.0.jar"
+hash-format = "sha512"
+hash = "88e7399c824f041029cd4411ef689b1c210eb54fe0eb13ea84ab7c19ec5eb87fd596a900af7de231310d73dd8fa8e5a3ce95e7d8247d0c323c4796bca3269622"
+
+[update]
+[update.modrinth]
+mod-id = "82kuUv49"
+version = "cyLPsvEf"

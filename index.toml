@@ -352,11 +352,6 @@ hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
-file = "mods/create-alerted.pw.toml"
-hash = "d8e2bf9bef65f1fe02d31d26d5315f7bf46b2215b901b6eb69adb5a3abc21876"
-metafile = true
-
-[[files]]
 file = "mods/create-ballast.pw.toml"
 hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
 metafile = true

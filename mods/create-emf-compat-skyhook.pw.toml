@@ -1,13 +1,13 @@
 name = "Create: EMF Compat (Skyhook and Grabbing Physics)"
-filename = "create-emf-compat-1.21.1-1.2.0.jar"
+filename = "create-emf-compat-1.21.1-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9McOdzy/versions/ur6orOfo/create-emf-compat-1.21.1-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/oYK0LFLr/create-emf-compat-1.21.1-1.2.1.jar"
 hash-format = "sha512"
-hash = "3d4d68659166bb34652f40d677a62178b6d5dfc70c5766976351b05be116fd2035f39fa1e78fca211d91d96e21d808cfa96cd78a97638f08d0ebb3a0092257f7"
+hash = "3575b3555567fba99bfdbac2ebd55167f180f41e5a0f5214d20aaafcb2ee86f44306b143b6120b65cf2ff395657d29da0cbf32984b5016cf15a5ea8bb2b55b5b"
 
 [update]
 [update.modrinth]
 mod-id = "J9McOdzy"
-version = "ur6orOfo"
+version = "oYK0LFLr"

@@ -1,13 +1,13 @@
 name = "Lever durgster"
-filename = "lever-drugster-1.6.0.jar"
+filename = "lever-drugster-neoforge-1.21.1-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GQNtImhh/versions/rJWB0Gaf/lever-drugster-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/GQNtImhh/versions/XZ8bKH6f/lever-drugster-neoforge-1.21.1-1.7.0.jar"
 hash-format = "sha512"
-hash = "33782bf9aeb4c4c256665b6fb9863cf57311b21acd66292ce0d157f3a94d9a84f7975087d2480bab79c8cb063146a2834ce8bc50c400e8b528a1d4f87a477f82"
+hash = "c522fbd88c70f1b8accdbdf2ba3254203f113d2fb7f5c258edcd3a42e52e3eca054d2e9d0c7639ae6a997fd1af453587ea5de87f3fab5031ea87e8fda5330cf8"
 
 [update]
 [update.modrinth]
 mod-id = "GQNtImhh"
-version = "rJWB0Gaf"
+version = "XZ8bKH6f"

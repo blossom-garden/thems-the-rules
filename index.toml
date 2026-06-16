@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+hash = "a6afda2961a4d209fd8791736ad93989d38e722aa5f707ceeb097d414345de7b"
 metafile = true
 
 [[files]]

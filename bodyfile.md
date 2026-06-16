@@ -2,6 +2,15 @@
 
 **Adicionado**
 
+- [Abridged](https://modrinth.com/project/tb5O1ssC)
+- [Amplified Nether](https://modrinth.com/project/wXiGiyGX)
+- [CliffTree](https://modrinth.com/project/59ypHk8x)
+- [Continents](https://modrinth.com/project/bQ5TJA1E)
+- [Nature's Spirit](https://modrinth.com/project/WBvnqHfV)
+- [TerraBlender](https://modrinth.com/project/kkmrDlKT)
+- [World Preview NeoForged](https://modrinth.com/project/7kyIwfie)
+- [YUNG's API](https://modrinth.com/project/Ua7DFN59)
+- [YUNG's Better Nether Fortresses](https://modrinth.com/project/Z2mXHnxP)
 - [Concurrent Chunk Management Engine \(NeoForge\)](https://modrinth.com/project/COlSi5iR)
 - [Chunky](https://modrinth.com/project/fALzjamp)
 - [Detected setBlock Be Gone](https://modrinth.com/project/zv7fYVyQ)
@@ -13,12 +22,13 @@
 - [Resourceful Config](https://modrinth.com/project/M1953qlQ)
 - [Fast Noise](https://modrinth.com/project/OnlVIpq5)
 
-**Modificado/Atualizado**
-
-- [Fresh Animations: Player Extension](https://modrinth.com/project/TAIMVZCL)
-
 **Removido**
 
+- [Cliffs and Coves](https://modrinth.com/project/EwuS4aoq)
+- [Navigable Rivers](https://modrinth.com/project/3WdnBc3t)
+- [William Wythers' Overhauled Overworld \(Datapack\)](https://modrinth.com/project/4pbhwMQz)
+- [Larion World Generation](https://modrinth.com/project/rctNbbuL)
+- [Golem Overhaul](https://modrinth.com/project/qEYs2G9A)
 - [Aether Villages](https://modrinth.com/project/3P2XnNW6)
 - [Carry On Extend](https://modrinth.com/project/JbqjOoQj)
 - [Carry On](https://modrinth.com/project/joEfVgkn)
@@ -36,6 +46,4 @@
 - [Stackable Planar Dimensions](https://modrinth.com/project/Ng3wlzPs)
 - [Trek](https://modrinth.com/project/h2jngREY)
 - [ViewBoard](https://modrinth.com/project/xf9PORQx)
-- [Create: Alerted](https://modrinth.com/project/55vbzcdN)
-- [NiftyCarts](https://modrinth.com/project/CXd6g9xp)
 

@@ -73,23 +73,13 @@ file = "config/yosbr/options.txt"
 hash = "7e62630563b581f03470d076759686d3f503f92edd5281dc7478349bb6f84d39"
 
 [[files]]
-file = "datapacks/cliffs-and-coves.pw.toml"
-hash = "4c51a575c544d78ac5f279bbca7f09a91c3606feed5be071d1e792706f256f98"
-metafile = true
-
-[[files]]
-file = "datapacks/navigable-rivers.pw.toml"
-hash = "e34454e49aae296c075f67a1eb10fa733e7ca088e77d0007288146d78d21755f"
-metafile = true
-
-[[files]]
-file = "datapacks/william-wythers-overhauled-overworld-(datapack).pw.toml"
-hash = "bd03fa430bb8b864e5d39a254f8c3d5dc0d64f65c4a1d90e49316c42edb853b9"
-metafile = true
-
-[[files]]
 file = "icon.png"
 hash = "50381110f557bc55e66c33b91ed58ba1b741baff0be47a419c035908193e804e"
+
+[[files]]
+file = "mods/abridged.pw.toml"
+hash = "04c11efb21bf18fa26f56dee0a29fd9e8d6ffc2d4c3ae33a9bf334ec70bbe672"
+metafile = true
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -129,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "e2fa0a0c652d1a4cdec2ecc122c968c2a4b1cb36c2cdd874e10d8b04edb737fa"
 metafile = true
 
 [[files]]
@@ -282,6 +277,11 @@ hash = "1575c645b68ae61e6848cc26ededa351235dd4bb5e58aef19b78c02c79afd447"
 metafile = true
 
 [[files]]
+file = "mods/clifftree.pw.toml"
+hash = "56c22d19d851935a00ba8c65fcde2ffb2c57e508d3c1d3385e87a42547fecb16"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -299,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
 metafile = true
 
 [[files]]
@@ -797,11 +802,6 @@ hash = "e2743788609a0cd12f6fa71181525116c2033d17fc050ea2cafb07e2547c742a"
 metafile = true
 
 [[files]]
-file = "mods/larion-worldgen.pw.toml"
-hash = "cfd9584cd85b80ce1bc993112f337200ea603149edb6bb47af5f5c915529adf4"
-metafile = true
-
-[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "7dc059b3a3039b3798152dfabab338186600562495026829fca2eb414c3a399d"
 metafile = true
@@ -924,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
+metafile = true
+
+[[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
 
 [[files]]
@@ -1177,6 +1182,11 @@ hash = "e4ced1c70be45fd8e734418769c36f8af66b62d46c5171e931b7195cd84de434"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
 metafile = true
@@ -1297,6 +1307,11 @@ hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
 metafile = true
 
 [[files]]
+file = "mods/world-preview-neoforged-(unofficial).pw.toml"
+hash = "1753fa04f30e151acf0fbd649b6f75378da50d4f2dc2e28989aabae2836ca4d8"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
 hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
 metafile = true
@@ -1319,6 +1334,16 @@ metafile = true
 [[files]]
 file = "mods/yosbr-neo.pw.toml"
 hash = "f093cf9ea51450d9e691d1826517179c014fe94b216a519a9c36c1984859afdc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
 metafile = true
 
 [[files]]

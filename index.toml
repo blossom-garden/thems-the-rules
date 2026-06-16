@@ -327,11 +327,6 @@ hash = "68a6089104825858beb345ab44c435fff997cf5f1560b39e215574b3e1ae5c2c"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-boat-propellers.pw.toml"
-hash = "32aadd0f7806ba4adf8f88f5494cf2b564b603fee8ca50a1d9dfbc5e48c9c97a"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "4826787724dabb396681358d97bce2e5649a4fbad2f210588231d8e7293740e8"
 metafile = true
@@ -399,11 +394,6 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "52579ab76fea3d22a2507820122f5880c8dd83bef8fed911b782758fa4c0ecc2"
-metafile = true
-
-[[files]]
-file = "mods/create-graphs-stats.pw.toml"
-hash = "a244b0655f8d75802cf9c02212214bd68a8b613235924631337f7d64267d68c0"
 metafile = true
 
 [[files]]
@@ -497,11 +487,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/custom-map-banner-location.pw.toml"
-hash = "d5327d0d6c38e643cee1778d5ea49232782ded0ec7f7b3b7e0ab20dec6db2eb7"
-metafile = true
-
-[[files]]
 file = "mods/cutting-delight.pw.toml"
 hash = "f4682872ddfe482adee9aeccfe0db6f48b94380fe1d71eb46715d6ec663bfb13"
 metafile = true
@@ -577,11 +562,6 @@ hash = "912bfad02fb679b5de3fbc77446e8f26abd5e6fb91ddf6928e5923bffa391c13"
 metafile = true
 
 [[files]]
-file = "mods/e4all.pw.toml"
-hash = "6dc38a93abae30bb9727e5aa3cb36dfa3f0c771d0548d187569e4cc9cad9fd7f"
-metafile = true
-
-[[files]]
 file = "mods/easy-elytra-takeoff.pw.toml"
 hash = "96973d668da9b7307f61885e605bf7d3042abae740b639258d72a34287e46fce"
 metafile = true
@@ -609,11 +589,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
-metafile = true
-
-[[files]]
-file = "mods/entombed.pw.toml"
-hash = "10343162ceb649ab802d3bf0e1ff7504ec65c7a7ce35330d2a1c9685f859e0aa"
 metafile = true
 
 [[files]]
@@ -887,8 +862,8 @@ hash = "bf84fbec45a4b624896b5e4787bcb878b42ec0677b81743760194b2fed89f99e"
 metafile = true
 
 [[files]]
-file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
-hash = "fc09ad6f603a6bc743c439fb154f0e3385ffa7566fdd5f8e8c12f6d34b66bb24"
+file = "mods/maplink.pw.toml"
+hash = "cde0265f751c5ad8ab34f759462a358dd8d45472a480651f143a1024781d0bcb"
 metafile = true
 
 [[files]]
@@ -924,11 +899,6 @@ metafile = true
 [[files]]
 file = "mods/more-rpg-library.pw.toml"
 hash = "3de08868758475b03d9c7b90c300f5008e8fe98b742ef488cfeb801ed4069834"
-metafile = true
-
-[[files]]
-file = "mods/motion-capture.pw.toml"
-hash = "4daec37c3c7e5624fc7482682f7ce27be11bf5ee72ba264d3e784b061eb3fb37"
 metafile = true
 
 [[files]]

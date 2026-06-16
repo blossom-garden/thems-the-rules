@@ -1,0 +1,13 @@
+name = "Universal Keybinds"
+filename = "justkeybinds-neoforge-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3kRUxjcS/versions/L60glucd/justkeybinds-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "cd9408ee73fa28a1d34c7635459a883d92f9f5bf1eba33ee218a8b69fc1a99e533503733cb5914fc18c5138cdd3d1919951345544c32d78ff56518bc451526bd"
+
+[update]
+[update.modrinth]
+mod-id = "3kRUxjcS"
+version = "L60glucd"

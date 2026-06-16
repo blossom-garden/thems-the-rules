@@ -962,11 +962,6 @@ hash = "d1d66e8a6f72a031ec1ecc040b065aba512a800484ff5a36c08ae9b97e583ea0"
 metafile = true
 
 [[files]]
-file = "mods/niftycarts.pw.toml"
-hash = "421431bdba887c114dffd4be28fcdc0e6dddbfeadc518f5d02d55b8f3d575ece"
-metafile = true
-
-[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
 metafile = true

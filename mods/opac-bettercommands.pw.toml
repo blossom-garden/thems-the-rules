@@ -1,0 +1,13 @@
+name = "OPAC - Better Commands"
+filename = "opac_better_commands-1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u0lYa0ln/versions/HeqN6SxM/opac_better_commands-1.5.jar"
+hash-format = "sha512"
+hash = "374b14593933efc6ec792f92ce43dec1eaad9f96f1e0fb6eb8ea2d4d239d300168e6448c6ac6208a0181d9cecb48aec97cf1387243a16ace6d4a9b0886efd4b1"
+
+[update]
+[update.modrinth]
+mod-id = "u0lYa0ln"
+version = "HeqN6SxM"

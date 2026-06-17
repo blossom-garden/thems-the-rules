@@ -29,7 +29,7 @@ export extern "gh" [] {} # Manage projects released on GitHub
 
 export extern "mr" [] {} # Manage modrinth-based mods
 export extern "mr add" [ # Add a project from a Modrinth URL, slug/project ID or search
-  slug?: string,
+  ...slug: string,
   --project-id: string,       # The Modrinth project ID to use
   --version-filename: string, # The Modrinth version filename to use
   --version-id: string        # The Modrinth version ID to use

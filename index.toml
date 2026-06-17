@@ -362,6 +362,11 @@ hash = "c96680debefd71767f82ac5fb74388f108cf7bf2efd75115b6404ea67cad86ae"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "19f3a244bf8ffca1aa53621524681f98c680e8395323e7fa50c93169a6851a74"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -414,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
+metafile = true
+
+[[files]]
+file = "mods/create-rail-grinding.pw.toml"
+hash = "c71bb895f0149f9df4eb89168b818cbd77cb83bf5a11954bee8a60a26ef28ea7"
 metafile = true
 
 [[files]]
@@ -574,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
 
 [[files]]
@@ -862,8 +877,8 @@ hash = "bf84fbec45a4b624896b5e4787bcb878b42ec0677b81743760194b2fed89f99e"
 metafile = true
 
 [[files]]
-file = "mods/maplink.pw.toml"
-hash = "cde0265f751c5ad8ab34f759462a358dd8d45472a480651f143a1024781d0bcb"
+file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
+hash = "fc09ad6f603a6bc743c439fb154f0e3385ffa7566fdd5f8e8c12f6d34b66bb24"
 metafile = true
 
 [[files]]
@@ -879,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "ced62035562e01829cd252beb16b6ca888fb2ad32c246116cd42f18735d19eb1"
 metafile = true
 
 [[files]]
@@ -939,6 +959,31 @@ metafile = true
 [[files]]
 file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
 hash = "f81c75d8883fdafc7da5fe461f39ed3b9001100cc092cc8238774a8ec7ab9798"
+metafile = true
+
+[[files]]
+file = "mods/opac-bettercommands.pw.toml"
+hash = "f56081427335f96ac7e83f479cd57f57ca2d7a28b43187599c60cd3b104d4c54"
+metafile = true
+
+[[files]]
+file = "mods/opac-bonus-claims.pw.toml"
+hash = "ebf498efc7d46c761dbef61bf69af37500c962fbf7d8aa8cd86f153ccb77e2b7"
+metafile = true
+
+[[files]]
+file = "mods/opac-mute-claim-warnings.pw.toml"
+hash = "5688bc4a110443fb6d8821399f7b24866c72fba0363ecc998728336f016d42bb"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f5e0874a456cf7b4d1cc48131810ad660f556b4d08bc050c5e89ddf5d167da66"
+metafile = true
+
+[[files]]
+file = "mods/openpac-bluemap-refreshed.pw.toml"
+hash = "625920dea8ca3e4471cf6e2cd5b1afac984dd01fde393ec10d3fdf48e9cd8e3d"
 metafile = true
 
 [[files]]

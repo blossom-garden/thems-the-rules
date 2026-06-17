@@ -30,11 +30,25 @@ export def "changelog" [commits: int = 5]: nothing -> string { # Command to gene
   let modified = $diff | where status == 'M' | file added | get link | str join "\n"
 
   [
-    $"\n**((open pack.toml).version)**"
+    $"**((open pack.toml).version)**"
     (if ($added | is-not-empty) {$"**Adicionado**\n\n($added)"} else {null})
     (if ($modified | is-not-empty) {$"**Modificado/Atualizado**\n\n($modified)"} else {null})
     (if ($removed | is-not-empty) {$"**Removido**\n\n($removed)"} else {null})
   ] | each {$in} | str join "\n\n"
+}
+
+export def "file changelog" [commits: int, file: path]: nothing -> string {
+  let insert_pattern = "<!-- INSERT-NEW-CHANGELOG -->"
+  let changelog_old: string = open -r $file
+  $changelog_old
+  | str replace -a $insert_pattern $"($insert_pattern)\n\n(changelog $commits)"
+}
+
+export def "file details" [file: path]: nothing -> string {
+  let insert_pattern = "(?s)<details>.*</details>"
+  let details_old: string = open -r $file
+  $details_old
+  | str replace -r $insert_pattern (all details)
 }
 
 def "get metadata" []: [

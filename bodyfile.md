@@ -1,16 +1,18 @@
+**2.0.2**
 
-**2.0.1**
+**Adicionado**
 
-**Modificado/Atualizado**
+- [Create: Connected](https://modrinth.com/project/Vg5TIO6d)
+- [Create: Train Track Rail Grinding](https://modrinth.com/project/ix2S0LbR)
+- [Emotecraft](https://modrinth.com/project/pZ2wrerK)
+- [MapSyncer-for-XaeroWorldmap](https://modrinth.com/project/AW5A8Q2T)
+- [MCA Reborn](https://modrinth.com/project/1W98a849)
+- [OPAC - Better Commands](https://modrinth.com/project/u0lYa0ln)
+- [OPAC Bonus Claims](https://modrinth.com/project/CfBPXHvv)
+- [OPAC - Mute Claim Warnings](https://modrinth.com/project/6ohGiC7q)
+- [Open Parties and Claims](https://modrinth.com/project/gF3BGWvG)
+- [OpenPaC BlueMap - Refreshed](https://modrinth.com/project/BKD7dkwo)
 
-- [Barehanded](https://modrinth.com/project/NnSJuVRa)
-- [Collective](https://modrinth.com/project/e0M1UDsY)
-- [Create: EMF Compat \(Skyhook and Grabbing Physics\)](https://modrinth.com/project/J9McOdzy)
-- [Steam 'n' Rails Neoforge](https://modrinth.com/project/L3Jv0QZI)
-- [Entity Culling](https://modrinth.com/project/NNAgCjsB)
-- [Flerovium](https://modrinth.com/project/4Rh1Mobu)
-- [Furniture with create and sable compat](https://modrinth.com/project/W2K5jx3j)
-- [Lever durgster](https://modrinth.com/project/GQNtImhh)
-- [Neo Origins](https://modrinth.com/project/RUtQ9kfe)
-- [Punchy!](https://modrinth.com/project/8aoMKplv)
-- [Sable](https://modrinth.com/project/T9PomCSv)
+**Removido**
+
+- [Map Link  \(formerly Remote Player Waypoints for Xaero's Map\)](https://modrinth.com/project/kiByZ6gx)

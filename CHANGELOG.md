@@ -16,6 +16,7 @@
 - [Bobo Lib](https://modrinth.com/project/BohtfuyF)
 - [Create: Bits 'n' Tracks](https://modrinth.com/project/wYkiNwv2)
 - [Create: Electro Energetics](https://modrinth.com/project/qYJdIoAx)
+- [Create: Pipes'n physics](https://modrinth.com/project/CuAT8bVS)
 - [Effortless Building](https://modrinth.com/project/DYtfQEYj)
 - [Fabric Language Kotlin](https://modrinth.com/project/Ha28R6CL)
 - [Field Guide](https://modrinth.com/project/72RRCWM6)
@@ -87,6 +88,7 @@
 
 - [Grappling Hook Mod: Skybound](https://modrinth.com/project/tHHGzOFQ)
 - [Hardcore Revival](https://modrinth.com/project/HqKoXaXz)
+- [The Roads More Travelled \[TRMT\]](https://modrinth.com/project/74oZhrEe)
 
 **2.0.2**
 

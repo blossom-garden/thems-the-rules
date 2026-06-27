@@ -21,7 +21,14 @@ def "metafiles" [context] {
   }
 }
 
-export extern "main" [] {} # A command line tool for creating Minecraft modpacks
+export extern "main" [ # A command line tool for creating Minecraft modpacks
+  --cache: path             # The directory where packwiz will cache downloaded mods (default "/home/kodie/.cache/packwiz/cache")
+  --config: path            # The config file to use (default "/home/kodie/.config/packwiz/.packwiz.toml")
+  --meta-folder: path       # The folder in which new metadata files will be added, defaulting to a folder based on the category (mods, resourcepacks, etc; if the category is unknown the current directory is used)
+  --meta-folder-base: path  # The base folder from which meta-folder will be resolved, defaulting to the current directory (so you can put all mods/etc in a subfolder while s till using the default behaviour) (default ".")
+  --pack-file: path         # The modpack metadata file to use (default "pack.toml")
+  --yes(-y)                 # Accept all prompts with the default or "yes" option (non-interactive mode) - may pick unwanted options in search results
+] {}
 
 export extern "cf" [] {} # Manage curseforge-based mods
 
@@ -37,6 +44,12 @@ export extern "mr add" [ # Add a project from a Modrinth URL, slug/project ID or
 export extern "mr export" [] {} # Manage modrinth-based mods
 
 export extern "url" [] {} # Add external files from a direct download link, for sites that are not directly supported by packwiz
+export extern "url add" [ # Add external files from a direct download link, for sites that are not directly supported by packwiz
+  name: string
+  url: string
+  --meta-name: string # Filename to use for the created metadata file (defaults to a name generated from the name you supply)
+  --force # Add a file even if the download URL is supported by packwiz in an alternative command (which may support dependencies and updates)
+] {}
 
 export extern "rm" [file: string@metafiles] {} # Remove an external file from the modpack; equivalent to manually removing the file and running packwiz refresh
 
@@ -51,6 +64,7 @@ export extern "rehash" [] {} # Migrate all hashes to a specific format
 export extern "serve" [] {} # Run a local development server
 export extern "settings" [] {} # Manage pack settings
 export extern "update" [
+  file?: string@metafiles
   --all
 ] {} # Update an external file (or all external files) in the modpack
 export extern "utils" [] {} # Utilities for managing packwiz itself

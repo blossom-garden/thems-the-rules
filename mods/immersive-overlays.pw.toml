@@ -1,0 +1,13 @@
+name = "Immersive Overlays"
+filename = "immersiveoverlays-1.7.2+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/ez1uiPnL/immersiveoverlays-1.7.2%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "ae53c6dd4980c0453f9c9f2672841a5104a28881f44e3d440b1ee05a6539f5d55b71f14c759946510cdb7d97694d85e1274793f79e515f1c2df8fe53261b8f6f"
+
+[update]
+[update.modrinth]
+mod-id = "PKoLkD98"
+version = "ez1uiPnL"

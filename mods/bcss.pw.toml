@@ -1,0 +1,13 @@
+name = "BlueMap Custom Skin Server"
+filename = "bluemap-custom-skin-server-2025.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yMAHcHNr/versions/JpMil3lZ/bluemap-custom-skin-server-2025.4.1.jar"
+hash-format = "sha512"
+hash = "02ce979c2a836e5994c9629110aacb5f02e774b28a406c63716cfb5adc940653937d78f14f892703dc12bfae0a3fb299b60438285b278bc125dea19eadc21424"
+
+[update]
+[update.modrinth]
+mod-id = "yMAHcHNr"
+version = "JpMil3lZ"

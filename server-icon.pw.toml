@@ -1,0 +1,8 @@
+name = "Server Icon"
+filename = "server-icon.png"
+side = "server"
+
+[download]
+url = "https://github.com/blossom-garden/thems-the-rules/raw/main/.github/attachments/window-icon.png"
+hash-format = "sha256"
+hash = "c2bec334ea4250bdd86d1e77b192ad83b3189f17a35b9dae6710e87af3cc441f"

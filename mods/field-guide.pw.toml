@@ -1,0 +1,13 @@
+name = "Field Guide"
+filename = "fieldguide-neoforge-1.21.1-1.13.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/xgyYq6qO/fieldguide-neoforge-1.21.1-1.13.0.jar"
+hash-format = "sha512"
+hash = "33b9dac599ebcfff296dcaada9d159e61737c4420d3361c5deca122042e2abf1bd33fd3f5a3e4e70027465588b886fa7d047ddf7d19422a325f83369988c1b5d"
+
+[update]
+[update.modrinth]
+mod-id = "72RRCWM6"
+version = "xgyYq6qO"

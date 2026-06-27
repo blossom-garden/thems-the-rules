@@ -1,13 +1,13 @@
 name = "Druids (RPG Series Plus)"
-filename = "druids-neoforge-1.1+1.21.1.jar"
+filename = "druids-neoforge-1.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/flHIknzE/versions/x67CPxcM/druids-neoforge-1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/flHIknzE/versions/DCM9UgQw/druids-neoforge-1.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "bb9c42f6ec82ff37e6513103a58900b9b823ed6f62c730ce1fa6a82bd7a4f98845a8480a4e8282aa612f7e93bdf4267460611c00424e19acfb66aa80c6887321"
+hash = "0546d3eff349443a3e50235ba809dccedae58f0026e116b962a950bc5828a57190bf44a0c61dedc44c118b4f3829ded1317e1fe90a25ff26c6ab2c8e78e1244e"
 
 [update]
 [update.modrinth]
 mod-id = "flHIknzE"
-version = "x67CPxcM"
+version = "DCM9UgQw"

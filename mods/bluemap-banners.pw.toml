@@ -1,0 +1,13 @@
+name = "BlueMap Banners"
+filename = "bluemap-banners-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rx2aSILw/versions/GPF9oarO/bluemap-banners-2.0.0.jar"
+hash-format = "sha512"
+hash = "b74fabe757afd1ea2b55c57bc51769d835346694326680fb019575981ca8febb11a01ce53555cf125895a1f9eaf96b9f2a90ab495799ed538daec246886a84c7"
+
+[update]
+[update.modrinth]
+mod-id = "rx2aSILw"
+version = "GPF9oarO"

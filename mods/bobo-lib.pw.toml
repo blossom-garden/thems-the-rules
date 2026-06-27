@@ -1,0 +1,13 @@
+name = "Bobo Lib"
+filename = "bobo_lib-1.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BohtfuyF/versions/rLITzt4V/bobo_lib-1.1-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "989bfd658004276db4698642af2c2a87c9505280cd36e057cb658d0bf8a18c69f8be8987a161dae580e440a8f5decdd3a1089d62304ca1bebefb60e0e8cfe67a"
+
+[update]
+[update.modrinth]
+mod-id = "BohtfuyF"
+version = "rLITzt4V"

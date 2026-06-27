@@ -1,0 +1,13 @@
+name = "Sable CleanUp"
+filename = "sablecleanup-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e40e7da7779c7dc4f8d94cfd156db9241992cff0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8319875
+project-id = 1586168

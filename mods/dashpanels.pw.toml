@@ -1,13 +1,13 @@
 name = "Dashpanels"
-filename = "dashpanels-1.1+neoforge1.21.1.jar"
+filename = "dashpanels-1.3+neoforge1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xZJfGh82/versions/rjBaAeOU/dashpanels-1.1%2Bneoforge1.21.1.jar"
+url = "https://cdn.modrinth.com/data/xZJfGh82/versions/6MSDuvFB/dashpanels-1.3%2Bneoforge1.21.1.jar"
 hash-format = "sha512"
-hash = "3459d7caaef9b57fdfcc30dcd8f86d61c0364e55873509dd0b8e845c34f932cee5735631c92c216046180cbb073f66119994eb45dca33f2cef8389a2db6c9171"
+hash = "113a38cf6a6ce0125c40a97e3103414d91b24ad3f67e2bd8b513b5e13e921661af71df162925873e2ef1ee0e44c795b876fe33886f697c6019b1bf7b34f03679"
 
 [update]
 [update.modrinth]
 mod-id = "xZJfGh82"
-version = "rjBaAeOU"
+version = "6MSDuvFB"

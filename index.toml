@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7c76639f902707fb69ee6f32372b47de56a8d52ae1c5d152673566b8afd0e023"
+hash = "1269f476c1de0ade0745cfce21e280c5836f1de74cdfb0ed9d58f2b683f33645"
 metafile = true
 
 [[files]]
@@ -1067,13 +1067,18 @@ hash = "cff6d5801dac31965f98e404212a0f85aade08f7b2b2cb2f20694efd2aa16210"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
 metafile = true
 
 [[files]]
 file = "mods/pf-neoforge.pw.toml"
-hash = "cbba6f1ebb36ec047b85a5ad211c0b0fd8ffbb4578f2c4741a0d6552864a31ff"
+hash = "32fe8b505a99beae9fddf30c59ab2f9c0ad7ca5941815af1f74456a6974cc211"
 metafile = true
 
 [[files]]
@@ -1103,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-x-sable.pw.toml"
-hash = "a52e370af5882085c5b07c276f260baee3d175467bd0edfd69346dc6f40ac0c2"
+hash = "29d192f4d7aa37b0f725d03647bc7e9ca55aa0da91efb602025e7bc2d83ae9cd"
 metafile = true
 
 [[files]]
@@ -1113,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "2976baae1bb2d628cf5ad96d25ba4d3b58b6e99ae20d01d13dab054a84e4cefa"
+hash = "4505a293e92245ae058a8020d549ed3728f3e4dbf1b456d671f180afa6613a5e"
 metafile = true
 
 [[files]]
@@ -1144,6 +1149,11 @@ metafile = true
 [[files]]
 file = "mods/realm-rpg-fallen-adventurers.pw.toml"
 hash = "e3dc2d295b421fd9e51608c84c1172dd794c94fb03fdcc85aa173257e4535728"
+metafile = true
+
+[[files]]
+file = "mods/recipe-fixer.pw.toml"
+hash = "71c9483d08c68be5149794565d81247de34215d2aad658db49f6c5280eaeb948"
 metafile = true
 
 [[files]]
@@ -1418,12 +1428,12 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "91168c56d3d63a734eba7c8356f954506223cc949e9d1ca298996670bec80402"
+hash = "bdc84f0f353c698bb8b264e924c75eef9888ba1027f55085d3a5afe2e603ab1e"
 metafile = true
 
 [[files]]
 file = "mods/wavify.pw.toml"
-hash = "9013acec7a7f1a2848fedebea33c0e50e94d1f3d0aaaaa08e1b6d0d3a91b56eb"
+hash = "b15f073ec6f4731815b9bf413e31519b2cf3692650b8984371965b497cca9168"
 metafile = true
 
 [[files]]

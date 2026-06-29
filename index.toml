@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".analogaudio/internal/analogplayer.pw.toml"
-hash = "bb0d3ecb66fc77f76faf3ec0b50651940f587c15841fe6de2972b9085ca45250"
-metafile = true
-
-[[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
 hash = "0d3c0f31ecf48a8cd315a1abb9354177f274c90b27933a3e27608a45f53a27a7"
 
@@ -792,11 +787,6 @@ hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -1427,16 +1417,6 @@ hash = "80106ddf7ab5cec205fdf14caf75ce286ffa3be269f7f8a2e6eb87764b3ec4ff"
 metafile = true
 
 [[files]]
-file = "mods/wakes-reforged.pw.toml"
-hash = "bdc84f0f353c698bb8b264e924c75eef9888ba1027f55085d3a5afe2e603ab1e"
-metafile = true
-
-[[files]]
-file = "mods/wavify.pw.toml"
-hash = "b15f073ec6f4731815b9bf413e31519b2cf3692650b8984371965b497cca9168"
-metafile = true
-
-[[files]]
 file = "mods/waystones-teleport-pets.pw.toml"
 hash = "1b174c5980081e1701100862260ec25bdff80d84c949bf847b1703d0b2b7896f"
 metafile = true
@@ -1502,11 +1482,6 @@ hash = "79aec625604d405d4793a2f6cfba0cac165e8d8b6bea3f08fb54cd3bcd13810b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
-hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fa-player-extension+just-expressions.pw.toml"
 hash = "08b5cd4c0067b99926e1f07ddd83dc587dadddcb1e8414b2827b967d51171743"
 metafile = true
@@ -1564,11 +1539,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/hyper-punchy.pw.toml"
 hash = "c1a500647c961f03e2e7b52364e1deefc860f56a6fe340355a04d7b04d05e111"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mod-descriptions.pw.toml"
-hash = "b53395f427a4b5f5719041db2d35cbd2052930e67801228b0c95ff69f70136f3"
 metafile = true
 
 [[files]]

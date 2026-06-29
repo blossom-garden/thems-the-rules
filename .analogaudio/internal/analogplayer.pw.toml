@@ -1,8 +1,0 @@
-name = "AnalogPlayer"
-filename = "analogplayer-1.0.2.jar"
-side = "client"
-
-[download]
-url = "https://github.com/palmmc/analogplayer/releases/download/1.0.2/analogplayer-1.0.2.jar"
-hash-format = "sha256"
-hash = "5b53779dca71a5d9f9e15cf9137a6b44d4ca3bb578c9027b30c30578819cebd7"

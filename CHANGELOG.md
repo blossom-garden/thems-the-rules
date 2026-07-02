@@ -4,6 +4,54 @@
 
 <!-- INSERT-NEW-CHANGELOG -->
 
+**2.2.0**
+
+**Modificado/Atualizado**
+
+- [Abridged](https://modrinth.com/project/tb5O1ssC)
+- [Amendments](https://modrinth.com/project/6iTJugQR)
+- [Areas](https://modrinth.com/project/NWvsqJ2Z)
+- [BlueMap Offline Player Markers \(Forge/NeoForge\)](https://modrinth.com/project/LFSk55jv)
+- [Concurrent Chunk Management Engine \(NeoForge\)](https://modrinth.com/project/COlSi5iR)
+- [Collective](https://modrinth.com/project/e0M1UDsY)
+- [Crate Delight](https://modrinth.com/project/9rlXSyLg)
+- [Create: Bits 'n' Bobs](https://modrinth.com/project/T8bvmqVZ)
+- [Create: Electro Energetics](https://modrinth.com/project/qYJdIoAx)
+- [Create: Pipes'n physics](https://modrinth.com/project/CuAT8bVS)
+- [Cutting Delight](https://modrinth.com/project/5oqQBDcS)
+- [FancyMenu](https://modrinth.com/project/Wq5SjeWM)
+- [Field Guide](https://modrinth.com/project/72RRCWM6)
+- [Geckolib](https://modrinth.com/project/8BmcQJ2H)
+- [Kotlin for Forge](https://modrinth.com/project/ordsPcFz)
+- [LDLib](https://modrinth.com/project/B1CBVXHX)
+- [Lever durgster](https://modrinth.com/project/GQNtImhh)
+- [Lithium](https://modrinth.com/project/gvQqBUqZ)
+- [Lootr](https://modrinth.com/project/EltpO5cN)
+- [MCA Reborn](https://modrinth.com/project/1W98a849)
+- [Moonlight Lib](https://modrinth.com/project/twkfQtEc)
+- [Neo Origins](https://modrinth.com/project/RUtQ9kfe)
+- [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/MpEvPjRi)
+- [Punchy!](https://modrinth.com/project/8aoMKplv)
+- [Aeronautics: simulated copycats](https://modrinth.com/project/NYBH9vVY)
+- [Sodium Extra](https://modrinth.com/project/PtjYWJkn)
+- [Storage Delight](https://modrinth.com/project/LTTvOp5L)
+- [Supplementaries](https://modrinth.com/project/fFEIiSDQ)
+- [TinyCreate](https://modrinth.com/project/3YYD9Onk)
+- [TooManyRecipeViewers](https://modrinth.com/project/yFypjcfd)
+- [vista](https://modrinth.com/project/zuARv1N7)
+
+**Removido**
+
+- [Easy Elytra Takeoff](https://modrinth.com/project/3hqwGCUB)
+- [MapSyncer-for-XaeroWorldmap](https://modrinth.com/project/AW5A8Q2T)
+- [OPAC Bonus Claims](https://modrinth.com/project/CfBPXHvv)
+- [Ragdoll Reactions](https://modrinth.com/project/6awFMFjR)
+- [Ragdoll Revive](https://modrinth.com/project/6GKoZCVC)
+- [Sable: Player Ragdoll](https://modrinth.com/project/I3mWDgfy)
+- [Sable: Ragdoll Corpse](https://modrinth.com/project/uetGbPKW)
+- [Sable: Ragdolls](https://modrinth.com/project/I3mWDgfy)
+- [Universal Keyboard Controller](https://modrinth.com/project/vnZAETyV)
+
 **2.1.0**
 
 **Adicionado**

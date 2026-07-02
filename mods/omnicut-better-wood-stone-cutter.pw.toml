@@ -1,13 +1,13 @@
 name = "OmniCut: Better Wood, Copper, and Stone Cutter"
-filename = "omnicut-better-wood-stone-cutter-v1.88.1.jar"
+filename = "omnicut-better-wood-stone-cutter-v1.107.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MpEvPjRi/versions/qfqm5cjV/omnicut-better-wood-stone-cutter-v1.88.1.jar"
+url = "https://cdn.modrinth.com/data/MpEvPjRi/versions/Nan1oSmZ/omnicut-better-wood-stone-cutter-v1.107.0.jar"
 hash-format = "sha512"
-hash = "a57418d4381b9f7b48025965e8e80e405618a31d78543608a5e4b28a2db4fa4f078e88c254eb3cfe9393a33f36d9f2c875fe9d47e84b86bf00b273fdb8c3a35a"
+hash = "883a6c5d10bc4178392c39f1d1582433a4c251baec5d7effdbb721728956e4f5dc1051b6fbb9146c48bd79d18da1ab54eabc42e3f39244aa50b7a4191b951551"
 
 [update]
 [update.modrinth]
 mod-id = "MpEvPjRi"
-version = "qfqm5cjV"
+version = "Nan1oSmZ"

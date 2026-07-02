@@ -3,7 +3,7 @@
 *.md
 *.dat
 *.nix
-.env*
+.*env*
 /.gitattributes
 /.gitignore
 /files

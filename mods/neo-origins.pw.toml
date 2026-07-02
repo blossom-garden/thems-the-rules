@@ -1,13 +1,13 @@
 name = "Neo Origins"
-filename = "neoorigins-2.2.7+1.21.1.jar"
+filename = "neoorigins-2.2.11+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RUtQ9kfe/versions/LSZiG9Nn/neoorigins-2.2.7%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/RUtQ9kfe/versions/2CvGDSVu/neoorigins-2.2.11%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "a683c64d9f31267b291c8ea382c441b3156875bb07cbe5205757342cfec06a5e58c37e0bd3e727f8c77555d833fd766e47441b205883c0dea3b0843276af7ad0"
+hash = "32395b84baf595879c3270bacfc8e9c3fbf693e8b52fc2bb24fea2f997f17abd88c233765b2737d7ff61749d409c5bddb35c2522de551369c1e2f9b10cf2562d"
 
 [update]
 [update.modrinth]
 mod-id = "RUtQ9kfe"
-version = "LSZiG9Nn"
+version = "2CvGDSVu"

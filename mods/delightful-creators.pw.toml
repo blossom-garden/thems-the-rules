@@ -3,11 +3,11 @@ filename = "delightfulcreators-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/yibngMI7/delightfulcreators-1.2.jar"
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/669sIhQp/delightfulcreators-1.2.jar"
 hash-format = "sha512"
-hash = "f95ff888b7b785a0366a329f782f1d31d70d154780f9fe2bdd3c892b514aec2c730850e287c957f74fcc87c987429c12499ede48ca5e1c37af9883427478a5f2"
+hash = "65e90ed851c8cdc1eb6993c71e07f7e72955d24113666cc02ed5e1828052fde6f4d6901fe8bb1e5a630b68fdf8cb3be9ac59f8df8d2ab1ca2923021f85d1883c"
 
 [update]
 [update.modrinth]
 mod-id = "jmJ87gsb"
-version = "yibngMI7"
+version = "669sIhQp"

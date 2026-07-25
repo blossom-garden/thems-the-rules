@@ -1,0 +1,13 @@
+name = "Create: Better Item Vaults"
+filename = "BetterItemVaults-main-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QE2PuYU3/versions/MIzjQRzi/BetterItemVaults-main-1.0.2.jar"
+hash-format = "sha512"
+hash = "7f67efa502e8a60788c0c310700931650d6fe92e63d190fce495648cb0bfc0d307373131da0d4d613334fc0a1c3c91a48450e4e02a6b1eff083c056baecd0614"
+
+[update]
+[update.modrinth]
+mod-id = "QE2PuYU3"
+version = "MIzjQRzi"

@@ -1,0 +1,13 @@
+name = "CreateTrainWebAPI"
+filename = "createtrainwebapi-1.21.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/blbzcN8G/versions/kzOO4RbK/createtrainwebapi-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "0d78aec793e23623ca8c9b9e5ebd8c3da7c3103f9514297f522cfd06edc4e6ac6072f7f625e0e2b4cbede48f7f06f51c3b9fbb2d1b6b15ff4b2e7aa7e0c098ba"
+
+[update]
+[update.modrinth]
+mod-id = "blbzcN8G"
+version = "kzOO4RbK"

@@ -1,0 +1,14 @@
+name = "Fresh Animations - Ghasts Galore"
+filename = "Ghasts Galore!.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/Bqfwo3i1/versions/Yo8GW6Jz/Ghasts%20Galore%21.zip"
+hash-format = "sha512"
+hash = "4286f7ab3f8b9b8abe661060043651e41533045617e09a6c93602f41f4125f93975e8c60b36d385c29145bd474704eab5413cf02538849cff4b21ccf9a17448d"
+
+[update]
+[update.modrinth]
+mod-id = "Bqfwo3i1"
+version = "Yo8GW6Jz"

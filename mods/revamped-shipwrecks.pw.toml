@@ -1,6 +1,6 @@
 name = "Revamped Shipwrecks"
 filename = "Revamped Shipwrecks 1.1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZnZ8uqXN/versions/olo0Q6nb/Revamped%20Shipwrecks%201.1.0.jar"

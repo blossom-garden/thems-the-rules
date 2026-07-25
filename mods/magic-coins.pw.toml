@@ -1,0 +1,13 @@
+name = "Magic Coins"
+filename = "magic_coins-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qgQomU7L/versions/lc8t2DTb/magic_coins-1.1.3.jar"
+hash-format = "sha512"
+hash = "d56e496dfb67e13deba9f874924daddc721126ecf8be7c0726b79d98e43abe3dfd16f1ffe1e336734806cbbf5b315ee386a611607d9664101c07243964c31de9"
+
+[update]
+[update.modrinth]
+mod-id = "qgQomU7L"
+version = "lc8t2DTb"

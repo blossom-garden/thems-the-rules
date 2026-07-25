@@ -1,13 +1,13 @@
 name = "Barehanded"
-filename = "barehanded-neoforge-1.21.1-1.5.2.jar"
+filename = "barehanded-neoforge-1.21.1-1.6.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NnSJuVRa/versions/8DxgQXCm/barehanded-neoforge-1.21.1-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/NnSJuVRa/versions/T3TGw1Bk/barehanded-neoforge-1.21.1-1.6.4.jar"
 hash-format = "sha512"
-hash = "e782f3941c35131b8cffe11149f0d99f93cdf70ab98a41b051bfa71664caf88c6ce47eb0c4548bcacdc9c682538f4c69568f83671b335768ec0b2670e3c7bcd2"
+hash = "1763f6692be68c93f1d776e49f3e15dc3f9bf98d333f249d07d45d019fd1b7bf8393e0c434410c8b0fe0a74342813770d2534f4af85fbe63765992f6ed0a9179"
 
 [update]
 [update.modrinth]
 mod-id = "NnSJuVRa"
-version = "8DxgQXCm"
+version = "T3TGw1Bk"

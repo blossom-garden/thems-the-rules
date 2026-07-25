@@ -1,0 +1,13 @@
+name = "Camera Utils (Neoforge Port)"
+filename = "camerautils-0.4.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jnRhYK0n/versions/bkLNhQdy/camerautils-0.4.7.jar"
+hash-format = "sha512"
+hash = "9916a26cf0e9f50ff59878fd2a4fe8fd2daa36412a1f24371a319c0649631808ae7dab25af6b0c388a31dc3af36d196925b1285e541dc17be65f9bc9c1e0f644"
+
+[update]
+[update.modrinth]
+mod-id = "jnRhYK0n"
+version = "bkLNhQdy"

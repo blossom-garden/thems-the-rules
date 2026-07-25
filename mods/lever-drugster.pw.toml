@@ -1,13 +1,13 @@
 name = "Lever durgster"
-filename = "lever-drugster-1.8.51.jar"
+filename = "lever-drugster-1.8.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GQNtImhh/versions/vwKoz2af/lever-drugster-1.8.51.jar"
+url = "https://cdn.modrinth.com/data/GQNtImhh/versions/epR68IoB/lever-drugster-1.8.8.jar"
 hash-format = "sha512"
-hash = "6fe4d0adfc66f6457dea683608a9118880d1f9603c7555ed89d33f4bc92ff6c37482fc4284eed4627252bc9b89bf67dc6e67ff0bccd4d5398d863cfe18fc120f"
+hash = "e2e5c645bc88636a33eba02c02c3f40617b81585875243f1c543d637de4ac703c610f4d55dc68e90eddc480f267e55b844e949773cb44856d59af2bca0dcb947"
 
 [update]
 [update.modrinth]
 mod-id = "GQNtImhh"
-version = "vwKoz2af"
+version = "epR68IoB"

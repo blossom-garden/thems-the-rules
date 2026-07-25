@@ -1,0 +1,13 @@
+name = "Create : radiologistics"
+filename = "CreateRadiologistics-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mtA0MjEn/versions/nu9mL1zt/CreateRadiologistics-1.1.1.jar"
+hash-format = "sha512"
+hash = "e44c10815d553948839561c455210a4e90a0ae4294061b3f20da20af981c344d3114fb848020ac96533bf67a1bdfd67329e3cd7958a7f20120a7abb81c60e031"
+
+[update]
+[update.modrinth]
+mod-id = "mtA0MjEn"
+version = "nu9mL1zt"

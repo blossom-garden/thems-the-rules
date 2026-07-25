@@ -1,13 +1,13 @@
 name = "Envelope"
-filename = "envelope-neoforge-1.21.1-0.6.2.jar"
+filename = "envelope-neoforge-1.21.1-0.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bINSbhYK/versions/MmLbWZuv/envelope-neoforge-1.21.1-0.6.2.jar"
+url = "https://cdn.modrinth.com/data/bINSbhYK/versions/e4KBJBoH/envelope-neoforge-1.21.1-0.7.1.jar"
 hash-format = "sha512"
-hash = "c6c076e40ec421eb276b3ef6529d73482dfa2b59fe22871f47acc534ed9c2179b6c0f03d611ab2893701ded271334b61daa83a70c7ecdf57b03efe87e2380ed9"
+hash = "1f1fc220b656ec21604b872b6455f7a886370634863ba5759d7a29bbae29d3bca77cf07557f126f0e4720d9a51de68d3fdbdbe6ee530da415fcfcc1c47dc822f"
 
 [update]
 [update.modrinth]
 mod-id = "bINSbhYK"
-version = "MmLbWZuv"
+version = "e4KBJBoH"

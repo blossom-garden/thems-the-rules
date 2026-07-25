@@ -1,13 +1,13 @@
 name = "Sable CleanUp"
-filename = "sablecleanup-0.2.3.jar"
+filename = "sablecleanup-0.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e40e7da7779c7dc4f8d94cfd156db9241992cff0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wVnz7KNf/versions/uRRVItgd/sablecleanup-0.3.0.jar"
+hash-format = "sha512"
+hash = "ebd60672d0edec3ae07f09a725546630b441dc6ebd82d4e4469f47e6571faf2150659328b509c909d1750de29bea871c3f419c9101b0779776a08073abbdfabf"
 
 [update]
-[update.curseforge]
-file-id = 8319875
-project-id = 1586168
+[update.modrinth]
+mod-id = "wVnz7KNf"
+version = "uRRVItgd"

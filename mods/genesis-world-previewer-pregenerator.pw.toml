@@ -1,0 +1,13 @@
+name = "Genesis - World Previewer & Pregenerator"
+filename = "genesis-1.1.0-1.21.1-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xXuFelru/versions/rUbPw3w3/genesis-1.1.0-1.21.1-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "4fb02e772fc0c701cf7ab077c39862e591b971ea39f9534b228c3bce56f14b7ded8dfbe8f75c2da0e5769a9aa1615f33adbb421c18162204c88d1a462ed1d3ec"
+
+[update]
+[update.modrinth]
+mod-id = "xXuFelru"
+version = "rUbPw3w3"

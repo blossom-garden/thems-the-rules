@@ -1,13 +1,13 @@
 name = "BlueMap Offline Player Markers (Forge/NeoForge)"
-filename = "bluemapofflineplayermarkers-neoforge-1.4.2b-release.jar"
+filename = "bluemapofflineplayermarkers-neoforge-1.4.2c-release.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LFSk55jv/versions/f0zW4b6g/bluemapofflineplayermarkers-neoforge-1.4.2b-release.jar"
+url = "https://cdn.modrinth.com/data/LFSk55jv/versions/OtnePip9/bluemapofflineplayermarkers-neoforge-1.4.2c-release.jar"
 hash-format = "sha512"
-hash = "a50e4659a85688e83c85fed14304933c83eb742bccbb8abf76808bc876cb93b59bb3a3e64c96284586eed817649dbc036e3bf5b28f66d899d5064072e17d9582"
+hash = "5f61e4e01975a97af445f5ece1ed667a0b783ba9144e7953dfb9507d79a8359384cf6d3c14276c13909beff527324be384c4cb73dece5f5bac6948c78fa01159"
 
 [update]
 [update.modrinth]
 mod-id = "LFSk55jv"
-version = "f0zW4b6g"
+version = "OtnePip9"

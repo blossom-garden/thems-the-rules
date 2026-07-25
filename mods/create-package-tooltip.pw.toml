@@ -1,0 +1,13 @@
+name = "Create: package tooltip"
+filename = "create_package_tooltip-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5yXogoa/versions/veSbs20T/create_package_tooltip-1.2.jar"
+hash-format = "sha512"
+hash = "fa41c6e3766a706e014e841c466129b45c894654028eb7420fa263e0956fbfeb391ee82e5b65c3c7ac5002022c14540f1024d976eafec268315126a3accaa459"
+
+[update]
+[update.modrinth]
+mod-id = "m5yXogoa"
+version = "veSbs20T"

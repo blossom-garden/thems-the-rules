@@ -28,6 +28,7 @@ jobs:
       - name: Get Info
         id: info
         run: |
+          use utils *
           let pack = (open ./pack.toml)
           let changelog = open -r bodyfile.md
           $env.version = $pack.version

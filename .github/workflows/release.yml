@@ -28,28 +28,14 @@ jobs:
       - name: Get Info
         id: info
         run: |
-          use utils *
           let pack = (open ./pack.toml)
-          let changelog = open -r bodyfile.md
-          $env.version = $pack.version
-          $env.loaders = $pack.versions | columns | where $it != "minecraft" | to json -r
-          $env.game-versions = $pack.versions.minecraft
-          $env.name = $pack.name
-          $env.name-kebab = $pack.name | str kebab-case
-          $env.outfile = $"out/($env.name-kebab).mrpack"
-          $env.changelog = $changelog
           if (not ("out" | path exists)) { mkdir out }
-          $"
-          version=($env.version)
-          loaders=($env.loaders)
-          game-versions=($env.game-versions)
-          name=($env.name)
-          name-kebab=($env.name-kebab)
-          outfile=($env.outfile)
-          changelog<<EOF
-          ($env.changelog)
-          EOF
-          " | save -a $env.GITHUB_ENV
+          $"version=($pack.version)
+          loaders=($pack.versions | columns | where $it != "minecraft" | to json -r)
+          game-versions=($pack.versions.minecraft)
+          name=($pack.name)
+          name-kebab=($pack.name | str kebab-case)
+          outfile=out/($pack.name | str kebab-case).mrpack" | save -a $env.GITHUB_ENV
 
       - uses: vspr-sh/packwiz-setup-action@master
       - name: Packwiz export
@@ -71,4 +57,4 @@ jobs:
           artifactContentType: zip
           bodyFile: ./bodyfile.md
           tag: ${{ env.version }}
-          name: ${{env.name}}-${{env.game-versions}}-${{env.version}}
+          name: ${{env.game-versions}}-${{env.version}}

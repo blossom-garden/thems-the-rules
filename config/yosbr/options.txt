@@ -192,6 +192,8 @@ key_create_lnl.keyinfo.raise_lift:key.keyboard.up
 key_create_lnl.keyinfo.lower_lift:key.keyboard.down
 key_create_lnl.keyinfo.c_lift:key.keyboard.right
 key_create_lnl.keyinfo.cc_lift:key.keyboard.left
+key_key.punchy.open_main_menu:key.keyboard.unknown
+key_key.punchy.inspect:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_gui.xaero_minimap_settings:key.keyboard.backslash
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
@@ -265,6 +267,7 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_key.liteminer.veinmine:key.keyboard.grave.accent
+key_key.bounce_styles.wardrobe:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.left.alt

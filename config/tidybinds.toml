@@ -1,0 +1,50 @@
+[General]
+	# Override default keybinds. When Reset is pressed, keys reset to these values instead of vanilla defaults.
+	# Format: key;input
+	# Example: key.jump;key.keyboard.space
+	# Use key.keyboard.unknown to set no default.
+	# Use Print Keys to discover key names.
+	key_overrides = ["key.aether.invisibility_toggle.desc;key.keyboard.unknown", "key.beltborne_lanterns.toggle_lantern;key.keyboard.backspace", "key.camerautils.zoom;key.keyboard.c", "create.keyinfo.rotate_menu;key.keyboard.left.alt", "key.effortless.undo.desc;key.keyboard.unknown", "key.effortless.redo.desc;key.keyboard.unknown", "key.emotecraft.fastchoose;key.keyboard.f4", "key.voicespells.toggle_listening;key.keyboard.scroll.lock", "key.voicespells.toggle_hud;key.keyboard.unknown", "key.voicespells.accept_suggestion;key.keyboard.enter", "key.voicespells.toggle_macro;key.keyboard.unknown", "key.voicespells.play_macro;key.keyboard.unknown", "key.voicespells.quick_recast;key.keyboard.insert", "key.bounce_styles.wardrobe;key.keyboard.unknown"]
+	# Trigger multiple keys with a single button press.
+	# Format: trigger_key;linked_key,another_linked_key
+	# Example: key.jump;key.sneak,key.sprint
+	# Linked keys are automatically hidden.
+	# Use Print Keys to discover key names.
+	key_combinations = []
+	# Move specific keys into custom or existing categories.
+	# Format: key;category
+	# Example: key.jump;key.categories.inventory
+	# Custom categories should be translated via a resource pack.
+	# Use Print Categories to discover category names.
+	key_categories = []
+	# Define the display order of categories in the Key Binds screen.
+	# Format: category;index
+	# Example: key.categories.inventory;1
+	# Lower indices appear higher in the list.
+	# Use Print Categories to discover category names.
+	category_order = []
+	# Keys to remove from the Key Binds screen.
+	# Format: key
+	# Example: key.jump
+	# Use Print Keys to discover key names.
+	hidden_keys = ["key.smoothCamera", "key.socialInteractions", "key.spectatorOutlines", "key.saveToolbarActivator", "key.loadToolbarActivator", "key.advancements", "lambdynlights.key.toggle_fps_dynamic_lighting", "key.clientsort.edit", "key.clientsort.cancelAuto", "key.clientsort.op.stackFill", "key.clientsort.op.matchTransfer", "key.clientsort.op.transfer", "key.exposure.camera_controls", "supplementaries.keybind.quiver", "accessories.key.open_accessories_screen", "key.fieldguide.open", "key.fieldguide.scan", "Physics Placement Toggle", "key.analogleverdrag.increase_signal", "key.analogleverdrag.decrease_signal", "key.analogleverdrag.gear_1", "key.analogleverdrag.gear_2", "key.analogleverdrag.gear_3", "key.analogleverdrag.gear_4", "key.analogleverdrag.gear_5", "key.analogleverdrag.gear_reverse", "key.analogleverdrag.gear_neutral", "key.analogleverdrag.debug_report", "keybinds.bettercombat.feint", "keybinds.bettercombat.toggle_mine_with_weapons", "key.aether.open_accessories.desc", "simulated.keyinfo.scroll_up", "simulated.keyinfo.scroll_down", "key.modmenu.open_menu", "key.mca.skin_library", "keybindings.spell_engine.spell_hotbar_1", "keybindings.spell_engine.spell_hotbar_2", "keybindings.spell_engine.spell_hotbar_3", "keybindings.spell_engine.spell_hotbar_4", "keybindings.spell_engine.spell_hotbar_5", "keybindings.spell_engine.spell_hotbar_6", "keybindings.spell_engine.spell_hotbar_7", "keybindings.spell_engine.spell_hotbar_8", "keybindings.spell_engine.spell_hotbar_9", "key.sablecleanup.open_list", "key.jade.config", "key.jade.narrate", "key.beltborne_lanterns.open_config", "key.beltborne_lanterns.toggle_debug", "key.beltborne_lanterns.open_debug", "key.irons_spellbooks.spell_quick_cast_1", "key.irons_spellbooks.spell_quick_cast_2", "key.irons_spellbooks.spell_quick_cast_3", "key.irons_spellbooks.spell_quick_cast_4", "key.irons_spellbooks.spell_quick_cast_5", "key.irons_spellbooks.spell_quick_cast_6", "key.irons_spellbooks.spell_quick_cast_7", "key.irons_spellbooks.spell_quick_cast_8", "key.irons_spellbooks.spell_quick_cast_9", "key.irons_spellbooks.spell_quick_cast_10", "key.irons_spellbooks.spell_quick_cast_11", "key.irons_spellbooks.spell_quick_cast_12", "key.irons_spellbooks.spell_quick_cast_13", "key.irons_spellbooks.spell_quick_cast_14", "key.irons_spellbooks.spell_quick_cast_15", "key.neoorigins.edit_hud", "key.neoorigins.open_creator", "key.neoorigins.open_mob_creator", "key.neoorigins.hotkey.1", "key.neoorigins.hotkey.2", "key.neoorigins.hotkey.3", "key.neoorigins.hotkey.4", "key.neoorigins.hotkey.5", "key.neoorigins.hotkey.6", "key.neoorigins.hotkey.7", "key.neoorigins.hotkey.8", "key.neoorigins.hotkey.9", "key.neoorigins.hotkey.10", "key.neoorigins.hotkey.11", "key.neoorigins.hotkey.12", "key.neoorigins.hotkey.13", "key.neoorigins.hotkey.14", "key.neoorigins.hotkey.15", "key.neoorigins.hotkey.16", "key.neoorigins.hotkey.17", "key.neoorigins.hotkey.18", "key.neoorigins.hotkey.19", "key.neoorigins.hotkey.20", "key.neoorigins.hotkey.21", "key.neoorigins.hotkey.22", "key.neoorigins.hotkey.23", "key.neoorigins.hotkey.24", "key.neoorigins.hotkey.25", "key.neoorigins.hotkey.26", "key.neoorigins.hotkey.27", "key.neoorigins.hotkey.28", "key.neoorigins.hotkey.29", "key.neoorigins.hotkey.30", "key.neoorigins.hotkey.31", "key.neoorigins.hotkey.32", "key.presencefootsteps.settings", "gui.xaero_pac_key_open_menu", "key.createrailwaysnavigator.route_overlay_options", "key.entityculling.toggle", "key.punchy.open_main_menu", "key.punchy.inspect"]
+	# Disable hidden keys by setting them to key.keyboard.unknown.
+	# This prevents hidden keys from conflicting with visible bindings.
+	unbind_hidden_keys = true
+	# Disable the red highlighting on keybinds that share the same key.
+	# Useful when you intentionally want multiple actions bound to one key.
+	disable_conflicts = true
+	# Additional spacing (in pixels) between entries in the Key Binds screen.
+	# Default: 0
+	# Range: 0 ~ 20
+	entry_spacing = 2
+
+[Debug]
+	# Log Tidy Binds actions (e.g., Moving key X to category Y) to the console.
+	log_actions = false
+	# Display hidden keys in a special Hidden Keys category instead of removing them.
+	display_hidden_keys = false
+	# Print all available key names (e.g., key.attack) to the console.
+	print_keys = false
+	# Print all available category names (e.g., key.categories.inventory) to the console.
+	print_categories = false

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "e40f039146a41bc29562edbfb82879d315196ac8480bb206cbff5f11b55c692a"
+
+[[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
 hash = "0d3c0f31ecf48a8cd315a1abb9354177f274c90b27933a3e27608a45f53a27a7"
 
@@ -34,19 +38,27 @@ hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "217b8fc181349087c486bcd54ae5cfbcde8b60b2ad9dbef8583017f6fd912a8b"
+hash = "c5607333aeb24f26fdb8d2bdba71fc7fc1550471d7286d48409e8ca0a958abfa"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "f597bad01bd70e1a8db69d032e8e6b9ad01fc558658361f3ddb7d08ff092eebd"
+hash = "4ac718f48cfb628afea7d7618610d6f67d064599ff032188d0b625df6e37aec9"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "504d6b94b1a8f6ffc3510b6229640cc16887a964b373423ddc3fbe979ef5c7e0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "827df5ef2d1eed0f31923812b4b1acf341be555528c38a434f2fbc575b799fbf"
+
+[[files]]
+file = "config/tidybinds.toml"
+hash = "2ba5437fea1999b332185fd9bfb21c8cbf43c22ee58dc17a3b3ecb4cee7fe8e6"
+
+[[files]]
+file = "config/yosbr/config/bounce_styles.toml"
+hash = "cd8430f75688945e50fcd11b7bb1b470afed06b543100a0ce8294305dfac8c57"
 
 [[files]]
 file = "config/yosbr/config/locatorbar.json"
@@ -70,7 +82,7 @@ hash = "d6bcbba8bc466a8468f21e06741cfb65e3db05aa45930cc5a4d0de2a5203758a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8bb5baf90e8b4eb5bacc9bf9b473d121066a164ea17d4da4e25a0989e86e9954"
+hash = "cebab495678eaafa0a7719f912d17c100dc675b06f8e9fce14a72ed38a85d0db"
 
 [[files]]
 file = "icon.png"
@@ -158,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/armory-rpg-series.pw.toml"
-hash = "a4c9207aac3667fd2021bba2879b8407d5f6609b34f2f1c8fea70d9fa302b093"
+hash = "e9d2d29c07c536a594a8bc71265a6429c5399fb180027570f3f9d8f89941aade"
 metafile = true
 
 [[files]]
@@ -244,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true
 
 [[files]]
@@ -349,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "a516cae54142a38262b5b0163a30e119df844ee4bd11ad1cbea5accbc0334540"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
@@ -473,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "ad5c2fd3c28bd92617c104d5cfc32fc1fd9b16585af1f5631cc4c59954fa8eef"
+hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
 metafile = true
 
 [[files]]
@@ -612,6 +634,11 @@ hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
+file = "mods/drippy-early-loading-module.pw.toml"
+hash = "21f66e4e9771f9234c024bf5bcbd011f86c00cb78f36425a7218a0aec2049edd"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "eea753771cfbd43beb266fefdb1953f718f6aee6c78f10384c8db7150bb37d84"
 metafile = true
@@ -718,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "be38f8a166331598cc43fba356b9770ed13cbbc6eb16dc148cd0fbba4e70bc2e"
 metafile = true
 
 [[files]]
@@ -773,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/frequency-create.pw.toml"
-hash = "2953dcd55c7ed6c8c7c07b3606c16f6da04bc618e162ae98369cfe7cbc43df42"
+hash = "d9a73afc610ac339ee2d413479c1c6f80962fb29cdc75c248f85ec29fd7efdde"
 metafile = true
 
 [[files]]
@@ -913,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "7f5dc3f521d942b46c66c1dd8bcb8248e8187c56f452264d2b969ffd0c92b471"
+hash = "4c68968eb0ce234d8aae59fc34aec45a132b7eb26a28a482c4d019714611b49b"
 metafile = true
 
 [[files]]
@@ -923,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "253eb0796df9a8cd0214de3a6c32b7f6dc71fff5b861aa11086f275419ab046e"
+hash = "34d429475e6b99a31d1c2d61f06cd984f70bc6f67d3ae02784f8bbd391721c65"
 metafile = true
 
 [[files]]
@@ -949,11 +976,6 @@ metafile = true
 [[files]]
 file = "mods/neo-origins.pw.toml"
 hash = "1b84d0e5c91a983edffd6c917f9863424393c5682f0d2750d9457c6fe566437c"
-metafile = true
-
-[[files]]
-file = "mods/neocontinuity.pw.toml"
-hash = "d1d66e8a6f72a031ec1ecc040b065aba512a800484ff5a36c08ae9b97e583ea0"
 metafile = true
 
 [[files]]
@@ -983,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "b8f1e28b1f22a03e076b40a8b654ea9dfbdfd30670cf7337ef887692c242f411"
+hash = "2dc5bf4118f932f3d328b163e1b97972964ac33e82c4eb89f2f122ef0661de7e"
 metafile = true
 
 [[files]]
@@ -1112,11 +1134,6 @@ hash = "af16c5ba89a82a4776b29bbd804b4f2e5c22c34e9c365a1919da90dd94942123"
 metafile = true
 
 [[files]]
-file = "mods/sable-x-xaero-bridge.pw.toml"
-hash = "46a5135d51e3974f4949844f3764581632dfb2ed0d2efaf0ca496a05723864d8"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
@@ -1163,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-hash = "32ce332851504fd903aa75e9d6a4a5f25f9bbd7655950e6ef2ae40b347ac0a12"
+hash = "7c3512d7ec79f659702509ef25cfe005c74a036aedd6a49076a3ceab8485ff0e"
 metafile = true
 
 [[files]]
@@ -1222,18 +1239,8 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
-file = "mods/tiny-gates.pw.toml"
-hash = "a22c9405e08f229f323fc9fecaa4f70d882b7b962c045ba4df04c1894cc9dab7"
-metafile = true
-
-[[files]]
-file = "mods/tiny-redstone.pw.toml"
-hash = "dcde5989e4db6196a9992544b1f807926654badb6bb713e0e53604dc4dbb5447"
-metafile = true
-
-[[files]]
-file = "mods/tinycreate.pw.toml"
-hash = "e1a2cc6f6a12e1df0d747dd5a4e77ba8b1b4f88b67a01fb0d74dcd0a55af5c58"
+file = "mods/tidybinds.pw.toml"
+hash = "e18b45eabd930da8b069f1903c689fab8717184ff2c3367a0a120611976611c6"
 metafile = true
 
 [[files]]
@@ -1363,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "a6afda2961a4d209fd8791736ad93989d38e722aa5f707ceeb097d414345de7b"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
 metafile = true
 
 [[files]]
@@ -1443,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wisps-colourful-wildflowers.pw.toml"
-hash = "051090b5ee11bb3553056e7f74b1eec3a8fc07187e4dc5e3d75ae6baae84d4c2"
+hash = "d1368642ff1aa90791cd81ba0b0e0bd984ae81cabd4e213deec3429f99a385db"
 metafile = true
 
 [[files]]

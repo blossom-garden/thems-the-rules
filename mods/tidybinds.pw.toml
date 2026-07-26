@@ -1,0 +1,13 @@
+name = "Tidy Binds"
+filename = "tidybinds-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IGVW2rb4/versions/6J8Po8Pz/tidybinds-1.2.0.jar"
+hash-format = "sha512"
+hash = "445779d16847c7e13debc13707b4b125bbf36162437ccbca21887c04df35dbd6b4187803c353860c3623affab7a2a643cb31ae8c48f0078f3a9b9d76d9a2d5b4"
+
+[update]
+[update.modrinth]
+mod-id = "IGVW2rb4"
+version = "6J8Po8Pz"

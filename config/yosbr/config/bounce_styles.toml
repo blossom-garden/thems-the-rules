@@ -1,0 +1,22 @@
+[inventory_button]
+	# Specifies where the Style GUI button should be located within the Inventory GUI (in Survival mode), if enabled.
+	# First value is the X position, the second value is the Y position, relative to the Top Left (0,0) of the Inventory GUI
+	# Default: [126, 60]
+	inventory_button_position = [148, 60]
+	# Whether a button to open the Style GUI should appear in the Inventory GUI (in Survival mode)
+	# Default: true
+	enable_inventory_button = false
+
+[unlocks]
+	# Whether the Unlock System should be used or not.
+	# If true, Styles need to be Unlocked per-player in order for them to equip them.
+	# Default: true
+	require_unlocks = false
+	# The permission level required by players to bypass the Unlock system, and equip any Style.
+	# Relevant Wiki page for reference: https://minecraft.wiki/w/Permission_level#Java_Edition
+	# Default: 2 (Gamemaster)
+	unlock_bypass_permission_level = 2
+	# Whether a player must be in Creative mode, in addition to meeting the required Permission Level,
+	# to bypass the Unlock system, and equip any Style.
+	# Default: true
+	unlock_bypass_requires_creative = true

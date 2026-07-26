@@ -1,6 +1,7 @@
 name = "Wisp's Colourful Wildflowers"
 filename = "Wisps Wonderful Wildflowers v1.0.0.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/zVtAa1pJ/versions/EYf1Rgs4/Wisps%20Wonderful%20Wildflowers%20v1.0.0.zip"

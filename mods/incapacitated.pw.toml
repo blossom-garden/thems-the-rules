@@ -1,0 +1,13 @@
+name = "Incapacitated"
+filename = "incapacitated-neoforge-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CmDgNtOI/versions/cx5B4Q0k/incapacitated-neoforge-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "bbe913de3769ae6ef6cfc3b6c391cfd9213cd3ea5754505b07c27c1129ff41d64f9304d61840fff1a9244bbead0bbb0b4b8b1cbb744d9275c189f0be93d2b16e"
+
+[update]
+[update.modrinth]
+mod-id = "CmDgNtOI"
+version = "cx5B4Q0k"

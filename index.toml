@@ -109,11 +109,6 @@ hash = "c1938b904258f9b15a9ce93d9c7221be075f270b7c641a188b739f35d8c8f66e"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-wind-sound.pw.toml"
-hash = "980a23bd1d06f53cf9c912293cf0a9233c06c729d586c4e38fab26b6f4c125b7"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -130,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
+hash = "1e3337b795c0dccccea41979c2e149950dc27a63d31577c38f7595e66c64c8b2"
 metafile = true
 
 [[files]]
@@ -310,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
+hash = "d5a80aa432aab7965161b21ef30c196259d6ffb105aa49156120fd4241509ea6"
 metafile = true
 
 [[files]]
@@ -649,11 +644,6 @@ hash = "40787d42e8f9796467c6143cda460904b247d5a1b0b5b73823869773522cea38"
 metafile = true
 
 [[files]]
-file = "mods/druids.pw.toml"
-hash = "3166f07901ac26f424b06999434e893a7d9f509c5522687da16cfc725eb3ce1b"
-metafile = true
-
-[[files]]
 file = "mods/dsbg.pw.toml"
 hash = "747593d2c06ee38e577c428f05d32ee749df27a4be39cbfe43c5024619904234"
 metafile = true
@@ -834,6 +824,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "199cfc53716e9b5cfb33fcd550dff7fcf2e1163dceaf736ab9a5b42f4c2836be"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "1b84f2dda2014252ffb0b792f4850fa3b3b396a49f39cac7b11c8cb88bf1a1e4"
 metafile = true
@@ -881,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "39d87e1be0bfccbd2997a0c13600f8b2282b55fecd51548b6f0f29896daa002a"
 metafile = true
 
 [[files]]
@@ -1119,11 +1119,6 @@ hash = "bcae679765144e82a8b181be8173bc088ca431e1573ecb170b9898430a4b67cd"
 metafile = true
 
 [[files]]
-file = "mods/sable-cleanup.pw.toml"
-hash = "a853620e7a9fff71bb22f2e467b5861bafdea792d4e679709800c587c98ae95c"
-metafile = true
-
-[[files]]
 file = "mods/sable-dramatic-impact.pw.toml"
 hash = "60179cb0570ed9ba583d7a5f8301e14b70226985e398cd4c28ea83b3c80edb7e"
 metafile = true
@@ -1131,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/sable-floaters.pw.toml"
 hash = "af16c5ba89a82a4776b29bbd804b4f2e5c22c34e9c365a1919da90dd94942123"
+metafile = true
+
+[[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "fb92392ac9a0d0285de95ed7eb203b7bc53c53947e78a67aeb91ee1f7dda8072"
 metafile = true
 
 [[files]]
@@ -1301,6 +1301,11 @@ metafile = true
 [[files]]
 file = "mods/village-taverns.pw.toml"
 hash = "8cc0abc83f6856b8f5b6cbcd1c36da9d9315d273fe8c4ec87fbdafa337f82f0a"
+metafile = true
+
+[[files]]
+file = "mods/visceral-combat.pw.toml"
+hash = "6726ff6788a1cb277addf87c923bd5f2b9c6af432dad654a2901ab908d5f606c"
 metafile = true
 
 [[files]]

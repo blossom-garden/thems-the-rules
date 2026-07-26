@@ -1,0 +1,13 @@
+name = "Visceral Combat"
+filename = "visceral_combat-neoforge-1.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2105c61ceb341169647840ce259b8fbf168e4d1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8378829
+project-id = 1573333

@@ -424,6 +424,11 @@ hash = "65da015deec6a13234dd4e2b4bc10efb598b7688c29a551ca61c34ee92a2dbb7"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "b06582bdf461277d180b55a2ffc6ab3f41196858c4866692bf473a6413d867f4"
+metafile = true
+
+[[files]]
 file = "mods/create-colored-packages.pw.toml"
 hash = "758487f7d0a7e4a195dea2b7df621ef5a3dcc91eb68ce9c4ed912b6923a79aaa"
 metafile = true

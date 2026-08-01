@@ -670,37 +670,37 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-better-combat.pw.toml"
-hash = "6b72a9d185b4c2618537206be342218a3f0047d4309255a189d16a2a80b5b759"
+hash = "80c0472532d3b14ec370286029c52757d4354a19eb0f70d86cfd7ed1a0bcfef9"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "8f2059f161c3f2b39e533fceb1b0829d5b752d31d054f59ad3a1fe92a6257aaf"
+hash = "1cdbda9d0c6e295c6ac49ccdc63645b4f0bc25f7e0f6dc69f9f0ab140f78c993"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-create.pw.toml"
-hash = "3b51b13de60fa3582223bd4c29384311fc79c4820264eaf6fb4ebe4e417b5f8c"
+hash = "aa2cfc11a89d8529bd1310470abcbc77b0f92742a4dd42a1ccad60e901ee6c3e"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-exposure.pw.toml"
-hash = "6967d71657cbfbf15b58c98cb80c7d53396a2e2703cd110e17345167782af02c"
+hash = "53a0de327ac925ae86f8044a96a0746fa65516e050f6f9a70614d812fba670a6"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-irons-spells-n-spellbooks.pw.toml"
-hash = "3fb22ef6cfe1cd5d13cffb0c5a0d38ad5cac3a2bd5dbf973be85e7f23e1bc0d1"
+hash = "0bfaa4fa873d372f088948cd8982bb62e557fc9f27555c0d17b7f02509a98f58"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-supplementaries.pw.toml"
-hash = "0686670525ca56db90e4ebb56adc3f072adc87668d1f2d9068c31ae2834cdb1f"
+hash = "59fbb8efa81b37afdd2ea2089e4501e7b9de884e3806b62396acb80880b6110a"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-take-a-seat.pw.toml"
-hash = "a1461a9c31530bbea9c8222a6ac48b4fdb989ba7aecd07eef936a4925e030467"
+hash = "ba82e7120d41212aedf7420750cb3727e789b1b16bedb5f202b3292356eec68d"
 metafile = true
 
 [[files]]
@@ -861,11 +861,6 @@ metafile = true
 [[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "1b84f2dda2014252ffb0b792f4850fa3b3b396a49f39cac7b11c8cb88bf1a1e4"
-metafile = true
-
-[[files]]
-file = "mods/irons-spells-incantation.pw.toml"
-hash = "628e4c39ca0a0b4d7869929f1efa8dc8bbec5ea3376be01d975daa68386b8123"
 metafile = true
 
 [[files]]

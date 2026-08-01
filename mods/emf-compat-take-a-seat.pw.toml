@@ -1,0 +1,8 @@
+name = "EMF Compat: Take a Seat"
+filename = "emf_compat_takeaseat_1.21.1_1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/victorkozhokin/emf-compat/releases/download/v1.1.0/emf_compat_takeaseat_1.21.1_1.0.0.jar"
+hash-format = "sha256"
+hash = "fcbcbdddf1f879c0105ed5ebd14e16763d923e1589c132106bd309fa74397261"

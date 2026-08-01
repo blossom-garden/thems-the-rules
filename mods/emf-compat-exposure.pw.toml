@@ -1,0 +1,13 @@
+name = "EMF Compat: Exposure"
+filename = "emf_compat_exposure_1.21.1_1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "19960e422fb30a36679562a45aff8d6a16194a54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8546557
+project-id = 1629285

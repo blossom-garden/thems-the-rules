@@ -1,13 +1,13 @@
 name = "Armory (RPG Series)"
-filename = "armory-neoforge-1.4.1+1.21.1.jar"
+filename = "armory-neoforge-1.4.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PJvJUdGw/versions/XGf9nBdN/armory-neoforge-1.4.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/PJvJUdGw/versions/gCi4yQrf/armory-neoforge-1.4.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b2fc6a4edcf63db36c70153acd68574fd2aac5665ef58b9bc751022c2b42bc28cdebca65fd5ece8b0ea4341697364be82a7ef7f5fdf1fc3ef8bc1146f9c0a345"
+hash = "ce8a259dfaa11ccc52e5cf3847c41737e7614f311a91c983187f403e115cc573a4cb7885eb2970a4c6d6356dff05d2bc8c17984380b4e97e15dd9d5a2fad6bd7"
 
 [update]
 [update.modrinth]
 mod-id = "PJvJUdGw"
-version = "XGf9nBdN"
+version = "gCi4yQrf"

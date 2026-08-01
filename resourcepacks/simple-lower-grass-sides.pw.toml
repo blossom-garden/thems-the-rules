@@ -1,13 +1,13 @@
 name = "Simple Lower Grass Sides"
-filename = "Simple Lower Grass Sides v1.1.0.zip"
+filename = "Simple Lower Grass Sides v1.2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yANRnOx8/versions/s7TiSlZQ/Simple%20Lower%20Grass%20Sides%20v1.1.0.zip"
+url = "https://cdn.modrinth.com/data/yANRnOx8/versions/YEdrXaza/Simple%20Lower%20Grass%20Sides%20v1.2.0.zip"
 hash-format = "sha512"
-hash = "e3058ac80582c9051ec63fe10c9d391a5f34ef68c6495d598434bc37c167101ed82024ab4d1304772702f288c0f378ffdd52964b056c291036a5b17dee344535"
+hash = "64340edce7a3fbf5ff79c2fd3451ddba3995e80474e2c7423e0a4e9ca9ade220ed1ac3cd132f87806d903ad37b5365a290694741f1e5d32617ec0ee14af14329"
 
 [update]
 [update.modrinth]
 mod-id = "yANRnOx8"
-version = "s7TiSlZQ"
+version = "YEdrXaza"

@@ -1,0 +1,13 @@
+name = "Take a Seat!"
+filename = "takeaseat-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gg7qMzxE/versions/sQrwWnlU/takeaseat-1.0.1.jar"
+hash-format = "sha512"
+hash = "8d456cd582628504733327fab6e31eed4f7f58d01b6b73cbd55a09ee8429b8bd2cb4f78304ae45bdd58fcd3bea8c1a0735fe83632a9f0f5d69c63e3307738650"
+
+[update]
+[update.modrinth]
+mod-id = "Gg7qMzxE"
+version = "sQrwWnlU"

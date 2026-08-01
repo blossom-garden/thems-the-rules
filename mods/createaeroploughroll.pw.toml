@@ -1,0 +1,13 @@
+name = "Create Aeronautics Addon: Plough & Roll!"
+filename = "create_mod_roller_plough_fix-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sfzf8W4g/versions/aPsiELJT/create_mod_roller_plough_fix-1.0.12.jar"
+hash-format = "sha512"
+hash = "7e04ef27c4870509da1439a0979aea4df6f3da520c9f88a9a058bc9e5e4800394d02aba51b105c37a0b6f7d2472519444b8d335fbc6b76af8051d8394ce6d87c"
+
+[update]
+[update.modrinth]
+mod-id = "Sfzf8W4g"
+version = "aPsiELJT"

@@ -1,0 +1,13 @@
+name = "EMF Compat: Create"
+filename = "emf_compat_create_1.21.1_1.4.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ae7345d688523a58f7024e61e0495981042d7fe0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8540329
+project-id = 1605167
